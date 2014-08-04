@@ -6,7 +6,7 @@ categories: new site,jekyll,blogging
 tags: wordpress,jekyll
 ---
 
-Time for some awesome new content! [http://google.com](google)
+Time for some awesome new content! [http://google.com][google]
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com

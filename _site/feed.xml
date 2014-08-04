@@ -5,13 +5,13 @@
     <description>Harpo Jaeger&#39;s web site!</description>
     <link>http://harpojaeger.com/</link>
     <atom:link href="http://harpojaeger.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Aug 2014 00:43:09 -0400</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2014 00:43:09 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2014 00:44:21 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2014 00:44:21 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>An even newer post!</title>
-        <description>&lt;p&gt;Time for some awesome new content! &lt;a href=&quot;google&quot;&gt;http://google.com&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Time for some awesome new content! [http://google.com][google]&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 03 Aug 2014 20:41:12 -0400</pubDate>
