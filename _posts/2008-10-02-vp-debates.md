@@ -1,0 +1,11 @@
+---
+title: VP Debates
+author: Harpo
+layout: post
+permalink: /2008/10/02/vp-debates/
+categories:
+  - current events
+---
+The Vice-Presidential debate is tonight, Biden v. Palin. I&#8217;m planning to watch it or listen to it on the radio. Although these debates are sort of an exercise in pseudo-politics, designed to appeal to those out-of-touch with the issues and tailored to fit television&#8217;s characteristic short attention spans, I do think it will be interesting to see how the two candidates approach it. In general, I think valid results can be obtained from invalid systems, so these debates can yield useful information, even if it&#8217;s not of the type that&#8217;s intended. For example, one could get an understanding of what the candidates think about the debate format by how seriously they take it, how well they work within it, etc., even if we&#8217;re meant to be thinking about the issues (which is effectively impossible given the format of the debates: how do you summarize something like the Iraq war in two minutes?).  
+The main issue tonight is the gigantic difference between the two candidates in almost every respect. Experience is the most notable, but it is also worth noting that she is a woman and he a man. A lot of people have been comparing this to the debate between George H.W. Bush and Geraldine Ferraro in 1984, in which Ferraro accused Bush of being patronizing and condescending in attempting to &#8220;teach her&#8221;. Biden will have to step carefully to avoid falling into this same situation. If he can accurately criticize her lack of experience and highlight his own, it will be advantageous. A lot of this depends on the type of questions they are asked; yet is another reason these debates are not terribly important. Apparently there will be even less time tonight than there was for the last presidential debate for the candidates to actually &#8220;debate&#8221;, that is, respond to each other rather than stating their position on the moderator&#8217;s question.  
+We will see how it turns out. I am hopeful that it won&#8217;t descend into name-calling and groundless accusations. That may be an empty hope, but I can still have dreams.
