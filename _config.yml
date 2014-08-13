@@ -1,12 +1,24 @@
-# Site settings
-title: harpojaeger.com
-email: me@harpojaeger.com
-description: "Harpo Jaeger's web site!"
-baseurl: ""
-url: "http://harpojaeger.com"
-twitter_username: harpojaeger
-#github_username:  harpojaeger
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            harpojaeger.com
+tagline:          '"Senior leftwing Jewish malcontent"'
+description:      'Politics, organizing & two-stroke engines.'
+url:              http://harpojaeger.github.io
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Harpo Jaeger'
+  url:            https://twitter.com/harpojaeger
+
+# Custom vars
+# version:          1.0.0
+
+# github:
+#  repo:           https://github.com/poole/lanyon

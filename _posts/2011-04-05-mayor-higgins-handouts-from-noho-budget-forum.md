@@ -19,5 +19,5 @@ As promised, here are the two handouts that Mayor Higgins provided at the <a tit
 
 [City of Northampton FY12 Budget Issues][2]
 
- [1]: http://harpojaeger.github.io/wp-content/uploads/2011/04/handout1.City-of-Northampton-State-Aid-and-benefit-Costs.pdf
- [2]: http://harpojaeger.github.io/wp-content/uploads/2011/04/handout2.City-of-Northampton-FY12-Budget-Issues.pdf
+ [1]: http://harpojaeger.github.io/media/wp-content/uploads/2011/04/handout1.City-of-Northampton-State-Aid-and-benefit-Costs.pdf
+ [2]: http://harpojaeger.github.io/media/wp-content/uploads/2011/04/handout2.City-of-Northampton-FY12-Budget-Issues.pdf
