@@ -3,7 +3,7 @@ title: 'Alice&#039;s Restaurant'
 author: Harpo
 layout: post
 permalink: /2008/12/05/alices-restaurant/
-categories:
+tags:
   - friends
   - music
   - school

@@ -3,7 +3,7 @@ title: New Jewschool post
 author: Harpo
 layout: post
 permalink: /2010/09/18/new-jewschool-post-2/
-categories:
+tags:
   - family
   - Jewschool
   - religion

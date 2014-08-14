@@ -3,7 +3,7 @@ title: My first night at Occupy Providence
 author: Harpo
 layout: post
 permalink: /2011/10/19/my-first-night-at-occupy-providence/
-categories:
+tags:
   - culture
   - current events
   - economics

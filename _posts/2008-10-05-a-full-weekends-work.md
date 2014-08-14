@@ -3,7 +3,7 @@ title: 'A full weekend&#039;s work'
 author: Harpo
 layout: post
 permalink: /2008/10/05/a-full-weekends-work/
-categories:
+tags:
   - school
 ---
 Last night I went to the potluck at the Food Bank Farm in Hadley, which was a lot of fun. One of the highlights of the night was when all of the teenagers danced to &#8220;The Bear Missed the Train&#8221;, as played by the most excellent children&#8217;s entertainer <a href="http://rogertincknell.com" target="_blank">Roger Tincknell</a>. We also had a rousing game of Capture the Flag. Simon and Will both stayed over at my house last night, and Will and I did various types of work (calculus, physics, Lego) today after Simon left early in the morning (before we arose).  

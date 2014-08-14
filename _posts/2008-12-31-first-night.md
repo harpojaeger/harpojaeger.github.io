@@ -3,7 +3,7 @@ title: First Night
 author: Harpo
 layout: post
 permalink: /2008/12/31/first-night/
-categories:
+tags:
   - friends
   - music
 ---

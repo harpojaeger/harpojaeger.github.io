@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - math
 ---
 Need I say <a href="http://en.wikipedia.org/wiki/Pi_day" target="_blank">more</a>?

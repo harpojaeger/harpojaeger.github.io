@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - family
   - film
   - friends

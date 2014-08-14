@@ -3,7 +3,7 @@ title: Google Earth iPwnage
 author: Harpo
 layout: post
 permalink: /2008/10/28/google-earth-ipwnage/
-categories:
+tags:
   - tech
 ---
 Yesterday I downloaded the newly released Google Earth for iPwn. It  

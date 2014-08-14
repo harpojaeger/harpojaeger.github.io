@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/19/new-york-new-york/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - film
   - travel
 ---

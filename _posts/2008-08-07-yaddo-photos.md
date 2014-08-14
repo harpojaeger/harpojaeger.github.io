@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/07/yaddo-photos/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - art
   - family
   - travel

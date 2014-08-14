@@ -3,7 +3,7 @@ title: 'Photos: David Byrne'
 author: Harpo
 layout: post
 permalink: /2008/12/02/photos-david-byrne/
-categories:
+tags:
   - friends
   - music
 ---

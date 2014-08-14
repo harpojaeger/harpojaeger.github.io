@@ -3,7 +3,7 @@ title: The end of a long weekend
 author: Harpo
 layout: post
 permalink: /2008/10/26/the-end-of-a-long-weekend/
-categories:
+tags:
   - school
   - site
   - tech

@@ -3,7 +3,7 @@ title: Dance, dance
 author: Harpo
 layout: post
 permalink: /2008/10/21/dance-dance/
-categories:
+tags:
   - school
 ---
 Tonight is Simchat Torah, the festival that marks the completion of the Torah, which is read through once a year. Aside from a service, there is a lot of dancing. My family is probably going to go to the dancing part, because we are all too tired to go to a service.  

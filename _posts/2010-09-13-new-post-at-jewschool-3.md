@@ -3,7 +3,7 @@ title: New post at Jewschool
 author: Harpo
 layout: post
 permalink: /2010/09/13/new-post-at-jewschool-3/
-categories:
+tags:
   - culture
   - current events
   - Jewschool

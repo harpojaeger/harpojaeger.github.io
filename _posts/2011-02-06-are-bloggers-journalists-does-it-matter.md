@@ -3,7 +3,7 @@ title: 'Are bloggers journalists?  Does it matter?'
 author: Harpo
 layout: post
 permalink: /2011/02/06/are-bloggers-journalists-does-it-matter/
-categories:
+tags:
   - current events
   - politics
 tags:

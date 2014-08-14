@@ -3,7 +3,7 @@ title: 'The last presidential debate&#8230;'
 author: Harpo
 layout: post
 permalink: /2008/10/15/the-last-presidential-debate/
-categories:
+tags:
   - current events
 ---
 &#8230;is tonight. I will again be watching it at a friend&#8217;s house.  

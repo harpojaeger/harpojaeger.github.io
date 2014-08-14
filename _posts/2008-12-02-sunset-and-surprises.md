@@ -3,7 +3,7 @@ title: Sunset and surprises
 author: Harpo
 layout: post
 permalink: /2008/12/02/sunset-and-surprises/
-categories:
+tags:
   - friends
   - music
   - school

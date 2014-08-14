@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/20/and-were-off/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - travel
 ---
 We are moving! Hooray!

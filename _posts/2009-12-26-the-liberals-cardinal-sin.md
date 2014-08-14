@@ -3,7 +3,7 @@ title: 'The liberal&#039;s cardinal sin'
 author: Harpo
 layout: post
 permalink: /2009/12/26/the-liberals-cardinal-sin/
-categories:
+tags:
   - current events
 ---
 As a self-styled liberal and far-left progressive, I know I&#8217;ve often caught myself assuming that people to the right of me are less in support of human rights than I am.  This is equivalent to the conservative tactic of accusing liberals of attacking liberty and restricting freedom.

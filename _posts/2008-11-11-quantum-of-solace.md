@@ -3,7 +3,7 @@ title: Quantum of Solace
 author: Harpo
 layout: post
 permalink: /2008/11/11/quantum-of-solace/
-categories:
+tags:
   - random
 ---
 I am going to the midnight showing of the new James Bond movie on Thursday night (technically Friday morning) at 12:01 AM with a friend from school. I am PUMPED! Apparently it is the shortest Bond film ever, which is pretty cool. I really like Daniel Craig, the new actor, and I like the direction they went with the last film. From what I hear, this one&#8217;s similar.  

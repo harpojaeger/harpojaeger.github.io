@@ -3,7 +3,7 @@ title: Chicken HVAC
 author: Harpo
 layout: post
 permalink: /2009/01/01/chicken-hvac/
-categories:
+tags:
   - family
   - tech
 ---

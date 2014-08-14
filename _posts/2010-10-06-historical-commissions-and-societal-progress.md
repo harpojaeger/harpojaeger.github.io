@@ -3,7 +3,7 @@ title: Historical commissions and societal progress
 author: Harpo
 layout: post
 permalink: /2010/10/06/historical-commissions-and-societal-progress/
-categories:
+tags:
   - current events
   - local
   - politics

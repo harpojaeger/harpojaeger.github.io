@@ -3,7 +3,7 @@ title: 'Jaeger&#039;s Law'
 author: Harpo
 layout: post
 permalink: /2008/09/15/jaegers-law/
-categories:
+tags:
   - random
   - tech
 ---

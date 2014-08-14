@@ -3,7 +3,7 @@ title: Deploying the calculus
 author: Harpo
 layout: post
 permalink: /2008/11/15/deploying-the-calculus/
-categories:
+tags:
   - school
   - work
 ---

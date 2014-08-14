@@ -3,7 +3,7 @@ title: Brown notification
 author: Harpo
 layout: post
 permalink: /2008/12/10/brown-notification/
-categories:
+tags:
   - friends
   - school
 ---

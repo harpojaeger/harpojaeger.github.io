@@ -3,7 +3,7 @@ title: Yet another post on Jewschool
 author: Harpo
 layout: post
 permalink: /2009/12/18/yet-another-post-on-jewschool/
-categories:
+tags:
   - culture
   - Jewschool
   - religion

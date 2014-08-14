@@ -3,7 +3,7 @@ title: 'Autographs&#8230;NOT'
 author: Harpo
 layout: post
 permalink: /2008/12/02/autographsnot/
-categories:
+tags:
   - friends
   - music
   - school

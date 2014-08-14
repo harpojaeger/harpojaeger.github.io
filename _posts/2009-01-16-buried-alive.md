@@ -3,7 +3,7 @@ title: Buried alive
 author: Harpo
 layout: post
 permalink: /2009/01/16/buried-alive/
-categories:
+tags:
   - family
   - travel
 ---

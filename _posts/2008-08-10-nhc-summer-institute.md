@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/10/nhc-summer-institute/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - religion
   - travel
 ---

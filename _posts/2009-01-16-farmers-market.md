@@ -3,7 +3,7 @@ title: 'Farmer&#039;s market'
 author: Harpo
 layout: post
 permalink: /2009/01/16/farmers-market/
-categories:
+tags:
   - food
   - travel
 ---

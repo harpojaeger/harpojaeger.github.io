@@ -3,7 +3,7 @@ title: Bond approaches
 author: Harpo
 layout: post
 permalink: /2008/11/13/bond-approaches/
-categories:
+tags:
   - tech
 ---
 My plan for this evening is to do a bit of work, until about 7:30 or 8:00, nap until just before 11, and then get up and go to the movie. I am VERY excited. I am picking up two friends on the way, and we are meeting at least one other person there, possibly more. It is going to be a great night.  

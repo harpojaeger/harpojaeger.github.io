@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/03/carry-that-weight/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - math
   - school
 ---

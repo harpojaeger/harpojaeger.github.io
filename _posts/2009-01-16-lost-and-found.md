@@ -3,7 +3,7 @@ title: Lost and Found
 author: Harpo
 layout: post
 permalink: /2009/01/16/lost-and-found/
-categories:
+tags:
   - travel
 ---
 Shooting the pilot:

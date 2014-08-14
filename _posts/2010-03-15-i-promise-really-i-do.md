@@ -3,7 +3,7 @@ title: 'I promise, really I do&#8230;'
 author: Harpo
 layout: post
 permalink: /2010/03/15/i-promise-really-i-do/
-categories:
+tags:
   - New Voices
   - religion
   - school

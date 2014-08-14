@@ -3,7 +3,7 @@ title: Eco-friendly?
 author: Harpo
 layout: post
 permalink: /2008/12/09/eco-friendly/
-categories:
+tags:
   - current events
   - food
   - friends

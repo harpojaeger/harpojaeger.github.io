@@ -3,7 +3,7 @@ title: Where has all the brainpower gone?
 author: Harpo
 layout: post
 permalink: /2008/10/20/where-has-all-the-brainpower-gone/
-categories:
+tags:
   - school
   - site
 ---

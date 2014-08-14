@@ -3,7 +3,7 @@ title: 'Movin&#039; right along'
 author: Harpo
 layout: post
 permalink: /2008/09/28/movin-right-along/
-categories:
+tags:
   - school
 ---
 I have finished the first major edit of my main essay, and the first drafts of the various smaller essays for the various supplements. Now begins the arduous process of editing and reviewing my application. This will probably take the rest of the day and beyond, as I still need to meet with my counselor at school.  

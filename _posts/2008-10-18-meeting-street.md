@@ -3,7 +3,7 @@ title: Meeting Street
 author: Harpo
 layout: post
 permalink: /2008/10/18/meeting-street/
-categories:
+tags:
   - random
   - school
 ---

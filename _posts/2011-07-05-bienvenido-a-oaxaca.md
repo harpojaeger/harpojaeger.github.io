@@ -3,7 +3,7 @@ title: Bienvenido a Oaxaca?
 author: Harpo
 layout: post
 permalink: /2011/07/05/bienvenido-a-oaxaca/
-categories:
+tags:
   - culture
   - current events
   - economics

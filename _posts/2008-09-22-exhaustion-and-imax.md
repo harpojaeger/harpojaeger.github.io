@@ -3,7 +3,7 @@ title: Exhaustion and IMAX
 author: Harpo
 layout: post
 permalink: /2008/09/22/exhaustion-and-imax/
-categories:
+tags:
   - school
   - tech
 ---

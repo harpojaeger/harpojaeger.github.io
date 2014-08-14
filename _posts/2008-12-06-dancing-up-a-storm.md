@@ -3,7 +3,7 @@ title: Dancing up a storm
 author: Harpo
 layout: post
 permalink: /2008/12/06/dancing-up-a-storm/
-categories:
+tags:
   - dance
   - friends
   - music

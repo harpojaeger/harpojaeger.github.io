@@ -3,7 +3,7 @@ title: Fun with the JIDF
 author: Harpo
 layout: post
 permalink: /2010/01/30/fun-with-the-jidf/
-categories:
+tags:
   - culture
   - Jewschool
   - politics

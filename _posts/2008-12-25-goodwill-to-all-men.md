@@ -3,7 +3,7 @@ title: Goodwill to all men
 author: Harpo
 layout: post
 permalink: /2008/12/25/goodwill-to-all-men/
-categories:
+tags:
   - current events
   - religion
 ---

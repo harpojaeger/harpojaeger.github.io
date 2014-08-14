@@ -3,7 +3,7 @@ title: Anemones and barnacles
 author: Harpo
 layout: post
 permalink: /2009/01/16/anemones-and-barnacles/
-categories:
+tags:
   - family
   - travel
 ---

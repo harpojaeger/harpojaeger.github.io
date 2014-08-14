@@ -3,7 +3,7 @@ title: Brandeis and bed
 author: Harpo
 layout: post
 permalink: /2008/10/13/brandeis-and-bed/
-categories:
+tags:
   - school
   - tech
 ---

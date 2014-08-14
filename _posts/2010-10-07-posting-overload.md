@@ -3,7 +3,7 @@ title: POSTING OVERLOAD
 author: Harpo
 layout: post
 permalink: /2010/10/07/posting-overload/
-categories:
+tags:
   - current events
   - Jewschool
   - New Voices

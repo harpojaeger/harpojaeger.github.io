@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/20/the-vanishing-sculpture/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - art
   - travel
 ---

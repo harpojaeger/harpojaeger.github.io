@@ -3,7 +3,7 @@ title: Anticipation
 author: Harpo
 layout: post
 permalink: /2008/11/13/anticipation/
-categories:
+tags:
   - random
 ---
 I am here and we have our seats.

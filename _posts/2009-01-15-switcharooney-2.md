@@ -3,7 +3,7 @@ title: Switcharooney
 author: Harpo
 layout: post
 permalink: /2009/01/15/switcharooney-2/
-categories:
+tags:
   - tech
   - travel
 ---

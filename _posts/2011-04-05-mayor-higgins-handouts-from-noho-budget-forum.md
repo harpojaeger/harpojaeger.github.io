@@ -3,7 +3,7 @@ title: 'Mayor Higgins&#8217; Handouts from Noho budget forum'
 author: Harpo
 layout: post
 permalink: /2011/04/05/mayor-higgins-handouts-from-noho-budget-forum/
-categories:
+tags:
   - current events
   - local
   - money

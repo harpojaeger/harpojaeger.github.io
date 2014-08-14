@@ -3,7 +3,7 @@ title: 'Don&#039;t look now, but&#8230;'
 author: Harpo
 layout: post
 permalink: /2010/03/22/dont-look-now-but/
-categories:
+tags:
   - culture
   - current events
   - Jewschool

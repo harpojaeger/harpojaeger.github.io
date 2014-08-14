@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/03/photos-village-harmony-teen-residential-session-concert-ashfield-ma/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - family
   - music
 ---

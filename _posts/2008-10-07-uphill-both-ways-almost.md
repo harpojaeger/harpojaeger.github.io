@@ -3,7 +3,7 @@ title: Uphill both ways, almost
 author: Harpo
 layout: post
 permalink: /2008/10/07/uphill-both-ways-almost/
-categories:
+tags:
   - current events
   - school
 ---

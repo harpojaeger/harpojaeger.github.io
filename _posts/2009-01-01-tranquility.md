@@ -3,7 +3,7 @@ title: Tranquility
 author: Harpo
 layout: post
 permalink: /2009/01/01/tranquility/
-categories:
+tags:
   - current events
   - dance
   - friends

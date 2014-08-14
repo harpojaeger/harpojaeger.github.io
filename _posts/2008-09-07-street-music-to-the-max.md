@@ -3,7 +3,7 @@ title: Street music to the max
 author: Harpo
 layout: post
 permalink: /2008/09/07/street-music-to-the-max/
-categories:
+tags:
   - school
 ---
 Arriving back in town after rehearsal (which was, as I had forseen, very tiring), I am surprised to see a man playing piano on the street. Not a keyboard. A piano. My town has some pretty odd street performers &#8211; I have at times belonged to their ranks myself &#8211; but this just about tops them all.  

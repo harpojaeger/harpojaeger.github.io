@@ -3,7 +3,7 @@ title: General update
 author: Harpo
 layout: post
 permalink: /2008/12/14/general-update/
-categories:
+tags:
   - music
   - school
   - work

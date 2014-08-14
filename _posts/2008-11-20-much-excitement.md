@@ -3,7 +3,7 @@ title: Much excitement
 author: Harpo
 layout: post
 permalink: /2008/11/20/much-excitement/
-categories:
+tags:
   - friends
   - site
   - tech

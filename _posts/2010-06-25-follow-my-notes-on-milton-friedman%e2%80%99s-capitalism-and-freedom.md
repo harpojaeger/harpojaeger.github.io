@@ -3,9 +3,8 @@ title: Follow my notes on Milton Friedman’s Capitalism and Freedom!
 author: Harpo
 layout: post
 permalink: /2010/06/25/follow-my-notes-on-milton-friedman%e2%80%99s-capitalism-and-freedom/
-categories:
-  - economics
 tags:
+  - economics
   - Capitalism and Freedom
   - Keynes
   - Milton Friedman

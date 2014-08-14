@@ -3,7 +3,7 @@ title: Preparations
 author: Harpo
 layout: post
 permalink: /2009/01/15/preparations/
-categories:
+tags:
   - family
   - travel
 ---

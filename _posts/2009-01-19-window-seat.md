@@ -3,7 +3,7 @@ title: Window seat
 author: Harpo
 layout: post
 permalink: /2009/01/19/window-seat/
-categories:
+tags:
   - tech
   - travel
 ---

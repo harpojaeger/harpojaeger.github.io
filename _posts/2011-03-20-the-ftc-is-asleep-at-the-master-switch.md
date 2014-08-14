@@ -3,7 +3,7 @@ title: The FTC is asleep at the master switch
 author: Harpo
 layout: post
 permalink: /2011/03/20/the-ftc-is-asleep-at-the-master-switch/
-categories:
+tags:
   - current events
   - money
 tags:

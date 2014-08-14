@@ -3,7 +3,7 @@ title: Giving thanks
 author: Harpo
 layout: post
 permalink: /2008/11/27/giving-thanks/
-categories:
+tags:
   - current events
   - family
   - friends

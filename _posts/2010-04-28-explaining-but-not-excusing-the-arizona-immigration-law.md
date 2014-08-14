@@ -3,7 +3,7 @@ title: Explaining, but not excusing, the Arizona immigration law
 author: Harpo
 layout: post
 permalink: /2010/04/28/explaining-but-not-excusing-the-arizona-immigration-law/
-categories:
+tags:
   - culture
   - current events
   - politics

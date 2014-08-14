@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/04/29/eddie-izzard/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - art
   - friends
 ---

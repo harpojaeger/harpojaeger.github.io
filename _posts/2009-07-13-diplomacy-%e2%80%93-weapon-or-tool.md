@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - current events
 ---
 Why is it that we expect diplomats to use their positions as weapons?  We look at the idea of diplomatic sanctions or the breaking off of diplomatic relations as a *good* thing.  The point of diplomacy is to keep lines of communication open.  Even if a country has leveraged economic sanctions against another, has public denounced its conduct, or even is at war, diplomats should always be communicating.  If war is a failure of diplomacy, then nations should have the expectation that diplomats will work constantly throughout a military conflict to try to end it at any point.

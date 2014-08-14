@@ -3,7 +3,7 @@ title: Return of the office chair
 author: Harpo
 layout: post
 permalink: /2009/01/16/return-of-the-office-chair/
-categories:
+tags:
   - random
   - travel
 ---

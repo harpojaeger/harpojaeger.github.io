@@ -3,7 +3,7 @@ title: 'Now on Jewschool: Jewish ambi-Zionism'
 author: Harpo
 layout: post
 permalink: /2010/05/07/now-on-jewschool-jewish-ambi-zionism/
-categories:
+tags:
   - culture
   - Jewschool
   - religion

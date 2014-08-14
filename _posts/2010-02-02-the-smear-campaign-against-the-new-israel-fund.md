@@ -3,7 +3,7 @@ title: The smear campaign against the New Israel Fund
 author: Harpo
 layout: post
 permalink: /2010/02/02/the-smear-campaign-against-the-new-israel-fund/
-categories:
+tags:
   - culture
   - current events
   - Jewschool

@@ -3,7 +3,7 @@ title: Even the government has bad links
 author: Harpo
 layout: post
 permalink: /2008/09/06/even-the-government-has-bad-links/
-categories:
+tags:
   - random
   - tech
 ---

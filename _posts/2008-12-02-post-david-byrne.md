@@ -3,7 +3,7 @@ title: Post-David Byrne
 author: Harpo
 layout: post
 permalink: /2008/12/02/post-david-byrne/
-categories:
+tags:
   - music
 ---
 The show was incredible. Definitely ranking with the top shows I&#8217;ve seen (in no particular order):  

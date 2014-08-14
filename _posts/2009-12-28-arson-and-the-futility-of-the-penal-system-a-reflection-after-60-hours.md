@@ -3,7 +3,7 @@ title: 'Arson and the futility of the penal system: a reflection after 60 hours'
 author: Harpo
 layout: post
 permalink: /2009/12/28/arson-and-the-futility-of-the-penal-system-a-reflection-after-60-hours/
-categories:
+tags:
   - culture
   - current events
 tags:

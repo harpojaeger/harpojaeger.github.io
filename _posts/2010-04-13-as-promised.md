@@ -3,7 +3,7 @@ title: As promised
 author: Harpo
 layout: post
 permalink: /2010/04/13/as-promised/
-categories:
+tags:
   - culture
   - New Voices
   - religion

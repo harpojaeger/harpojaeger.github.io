@@ -3,7 +3,7 @@ title: 'I&#039;m finished'
 author: Harpo
 layout: post
 permalink: /2008/09/14/im-finished/
-categories:
+tags:
   - random
   - school
   - tech

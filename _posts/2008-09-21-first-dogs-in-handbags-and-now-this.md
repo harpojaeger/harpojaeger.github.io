@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/21/first-dogs-in-handbags-and-now-this/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - travel
 ---
 There are two people walking (or should I say hopping?) rabbits in the park.

@@ -3,7 +3,7 @@ title: Late night
 author: Harpo
 layout: post
 permalink: /2009/01/12/late-night/
-categories:
+tags:
   - film
   - food
   - friends

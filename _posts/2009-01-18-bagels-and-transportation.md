@@ -3,7 +3,7 @@ title: Bagels and transportation
 author: Harpo
 layout: post
 permalink: /2009/01/18/bagels-and-transportation/
-categories:
+tags:
   - food
   - travel
 ---

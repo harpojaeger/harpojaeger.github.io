@@ -3,7 +3,7 @@ title: Exquisite Corpse adjustment
 author: Harpo
 layout: post
 permalink: /2008/11/07/exquisite-corpse-adjustment/
-categories:
+tags:
   - site
   - tech
 ---

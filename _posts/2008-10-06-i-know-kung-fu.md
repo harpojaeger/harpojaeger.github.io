@@ -3,7 +3,7 @@ title: I know kung-fu
 author: Harpo
 layout: post
 permalink: /2008/10/06/i-know-kung-fu/
-categories:
+tags:
   - school
 ---
 The Kung-fu class went very well. I led the first one, a one-on-one with a more advanced third-degree white belt student who also runs WPI&#8217;s unoffical <a href="http://en.wikipedia.org/wiki/Parkour" target="_blank">parkour</a> mailing list. My friend led the second class and I participated, working with two of the beginners as he worked with the other one. This class was severly disrupted by cheerleading practice taking place in the adjacent gym, which is aurally inseparable from the martial arts room due to a low dividing wall and high ceiling. It is very difficult to meditate through cries of &#8220;T-O-U-C-H-D-O-W-N&#8221;.  

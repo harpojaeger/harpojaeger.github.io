@@ -3,7 +3,7 @@ title: NASA progress
 author: Harpo
 layout: post
 permalink: /2008/11/08/nasa-progress/
-categories:
+tags:
   - random
   - tech
 ---

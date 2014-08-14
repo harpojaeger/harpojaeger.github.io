@@ -3,7 +3,7 @@ title: Pico Boulevard
 author: Harpo
 layout: post
 permalink: /2009/01/15/pico-boulevard/
-categories:
+tags:
   - math
   - travel
 ---

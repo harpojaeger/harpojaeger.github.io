@@ -3,7 +3,7 @@ title: 'Opening night&#8230;'
 author: Harpo
 layout: post
 permalink: /2008/09/13/opening-night/
-categories:
+tags:
   - random
   - school
 ---

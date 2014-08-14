@@ -3,7 +3,7 @@ title: Impending exhaustion
 author: Harpo
 layout: post
 permalink: /2008/11/05/impending-exhaustion/
-categories:
+tags:
   - current events
   - school
 ---

@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/21/so-much-to-say/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - film
   - friends
   - travel

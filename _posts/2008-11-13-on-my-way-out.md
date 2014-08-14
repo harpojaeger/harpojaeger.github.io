@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/11/13/on-my-way-out/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - film
 ---
 I have awoken, am eating yogurt, and am about to head out.  

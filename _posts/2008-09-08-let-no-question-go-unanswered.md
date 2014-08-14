@@ -3,7 +3,7 @@ title: Let no question go unanswered
 author: Harpo
 layout: post
 permalink: /2008/09/08/let-no-question-go-unanswered/
-categories:
+tags:
   - random
 ---
 Shortly after posting about my wonders on the etymology of &#8220;mugshot&#8221;, I received the following two emails from my friends.

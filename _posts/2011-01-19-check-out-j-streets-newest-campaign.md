@@ -3,7 +3,7 @@ title: 'Check out J Street&#8217;s newest campaign'
 author: Harpo
 layout: post
 permalink: /2011/01/19/check-out-j-streets-newest-campaign/
-categories:
+tags:
   - current events
   - Jewschool
   - politics

@@ -3,7 +3,7 @@ title: Important people
 author: Harpo
 layout: post
 permalink: /2008/12/06/important-people/
-categories:
+tags:
   - current events
 ---
 Two important people recently died. Sunny von Bulow, who had been in a coma for many years, the subject of the movie &#8220;Reversal of Fortune&#8221;, died today, and Henry Molaison, better known as &#8220;H.M.&#8221;, died on Thursday. H.M. was an extremely historically important mental patient, who helped neuroscientists learn more about amnesia and its causes and effects. He underwent an experimental brain operation for an unrelated issue in 1953 which had the unexpected effect of causing him to lose his ability to store short-term memories. See <a href="http://www.nytimes.com/2008/12/05/us/05hm.html?scp=1&sq=h.m.&st=cse" target="_blank">this New York Times article</a> for more info on H.M..  

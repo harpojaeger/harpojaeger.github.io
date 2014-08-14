@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/02/end-first-day-of-school/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - friends
   - school
 ---

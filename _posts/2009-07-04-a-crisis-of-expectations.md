@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - current events
 ---
 What is it that makes Israel different than other countries?  Why do we (speaking from the American point of view) regard it so differently?  And is that changing?

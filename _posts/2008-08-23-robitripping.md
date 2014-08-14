@@ -3,7 +3,7 @@ title: Robitripping?
 author: Harpo
 layout: post
 permalink: /2008/08/23/robitripping/
-categories:
+tags:
   - current events
   - random
 ---

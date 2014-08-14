@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/27/musical-endeavors-update/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - music
   - tech
 ---

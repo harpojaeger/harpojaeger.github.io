@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - film
 ---
 I have just returned from seeing The Reader.  It is a fabulous movie.  I will not talk about the plot too much, as I am a firm believer in being able to see movies without knowing anything about them beforehand.  This was not exactly the case for this particular film; I knew a bit, but the movie was so expansive and covered so many ideas that what I did know did not detract from the experience at all.

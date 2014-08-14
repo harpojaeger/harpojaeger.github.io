@@ -3,7 +3,7 @@ title: Important updates
 author: Harpo
 layout: post
 permalink: /2010/06/12/important-updates/
-categories:
+tags:
   - current events
   - Jewschool
   - politics

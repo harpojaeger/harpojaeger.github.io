@@ -3,7 +3,7 @@ title: Various holidays
 author: Harpo
 layout: post
 permalink: /2008/12/24/various-holidays/
-categories:
+tags:
   - family
   - food
   - friends

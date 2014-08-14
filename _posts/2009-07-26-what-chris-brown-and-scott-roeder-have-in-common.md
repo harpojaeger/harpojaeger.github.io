@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - current events
 ---
 Recent news about Scott Roeder has got me thinking about the way people sort of rise and fall in the public eye.  Chris Brown, for instance, was all over the front pages of everything  when his case was breaking, and he&#8217;s faded since then.  I&#8217;ve just learned while writing this that he&#8217;s been <a href="http://en.wikipedia.org/wiki/Chris_Brown_(entertainer)#2009.E2.80.93present:_Graffiti_and_domestic_violence_case" target="_blank">sentenced</a>.  So why haven&#8217;t we been hearing about it more?  And why had Roeder&#8217;s name lain silent for that interim period?

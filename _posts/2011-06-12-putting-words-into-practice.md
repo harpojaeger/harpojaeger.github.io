@@ -3,7 +3,7 @@ title: Putting words into practice
 author: Harpo
 layout: post
 permalink: /2011/06/12/putting-words-into-practice/
-categories:
+tags:
   - current events
   - internet
   - politics

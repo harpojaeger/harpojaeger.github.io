@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/31/big-loud-party/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - food
   - friends
   - music

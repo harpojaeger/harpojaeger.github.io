@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - film
 ---
 <a href="http://waltzwithbashir.com/" target="_blank">Waltz With Bashir</a> was excellent.  I am going to do my best to review it here, briefly summarizing the plot and what I thought of it.  WARNING: plot details most definitely follow:

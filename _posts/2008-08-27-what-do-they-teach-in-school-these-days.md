@@ -3,7 +3,7 @@ title: What DO they teach in school these days?
 author: Harpo
 layout: post
 permalink: /2008/08/27/what-do-they-teach-in-school-these-days/
-categories:
+tags:
   - random
 ---
 I was at my old elementary school this evening doing some computer work, and I ran across a rather silly spelling excersize sheet. Look about halfway down, after the first block of text.

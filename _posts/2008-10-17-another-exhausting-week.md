@@ -3,7 +3,7 @@ title: Another exhausting week
 author: Harpo
 layout: post
 permalink: /2008/10/17/another-exhausting-week/
-categories:
+tags:
   - current events
   - school
   - site

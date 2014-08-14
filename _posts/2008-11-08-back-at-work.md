@@ -3,7 +3,7 @@ title: Back at work
 author: Harpo
 layout: post
 permalink: /2008/11/08/back-at-work/
-categories:
+tags:
   - school
   - tech
   - work

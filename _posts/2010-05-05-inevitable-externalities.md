@@ -3,7 +3,7 @@ title: Inevitable externalities
 author: Harpo
 layout: post
 permalink: /2010/05/05/inevitable-externalities/
-categories:
+tags:
   - current events
   - politics
 tags:

@@ -3,7 +3,7 @@ title: Soldiers and terrorists
 author: Harpo
 layout: post
 permalink: /2011/10/19/soldiers-and-terrorists/
-categories:
+tags:
   - current events
   - politics
 tags:

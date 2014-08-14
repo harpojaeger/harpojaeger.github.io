@@ -3,7 +3,7 @@ title: Out of the Closet
 author: Harpo
 layout: post
 permalink: /2009/01/17/out-of-the-closet/
-categories:
+tags:
   - travel
 ---
 A thrift store like any other, except that all the money goes to an AIDS charity.  

@@ -3,7 +3,7 @@ title: VP Debates
 author: Harpo
 layout: post
 permalink: /2008/10/02/vp-debates/
-categories:
+tags:
   - current events
 ---
 The Vice-Presidential debate is tonight, Biden v. Palin. I&#8217;m planning to watch it or listen to it on the radio. Although these debates are sort of an exercise in pseudo-politics, designed to appeal to those out-of-touch with the issues and tailored to fit television&#8217;s characteristic short attention spans, I do think it will be interesting to see how the two candidates approach it. In general, I think valid results can be obtained from invalid systems, so these debates can yield useful information, even if it&#8217;s not of the type that&#8217;s intended. For example, one could get an understanding of what the candidates think about the debate format by how seriously they take it, how well they work within it, etc., even if we&#8217;re meant to be thinking about the issues (which is effectively impossible given the format of the debates: how do you summarize something like the Iraq war in two minutes?).  

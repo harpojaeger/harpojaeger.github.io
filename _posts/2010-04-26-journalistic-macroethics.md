@@ -3,7 +3,7 @@ title: Journalistic macroethics
 author: Harpo
 layout: post
 permalink: /2010/04/26/journalistic-macroethics/
-categories:
+tags:
   - culture
   - current events
 tags:

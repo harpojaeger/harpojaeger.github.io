@@ -3,7 +3,7 @@ title: Two point seven
 author: Harpo
 layout: post
 permalink: /2008/12/14/two-point-seven/
-categories:
+tags:
   - site
   - tech
 ---

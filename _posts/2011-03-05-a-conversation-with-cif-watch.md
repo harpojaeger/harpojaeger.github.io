@@ -3,7 +3,7 @@ title: A conversation with CiF Watch
 author: Harpo
 layout: post
 permalink: /2011/03/05/a-conversation-with-cif-watch/
-categories:
+tags:
   - current events
   - politics
 tags:

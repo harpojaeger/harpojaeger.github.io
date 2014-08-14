@@ -3,7 +3,7 @@ title: Some changes
 author: Harpo
 layout: post
 permalink: /2010/05/26/some-changes/
-categories:
+tags:
   - school
   - site
   - work

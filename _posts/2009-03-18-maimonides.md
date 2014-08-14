@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - mock trial
 ---
 has beaten Newton South in their quarterfinals trial.  We will be playing them on Monday in the semifinals.

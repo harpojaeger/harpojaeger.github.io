@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/21/jumprope-guru/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - math
   - random
 ---

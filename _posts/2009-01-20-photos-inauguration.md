@@ -3,7 +3,7 @@ title: 'Photos: Inauguration'
 author: Harpo
 layout: post
 permalink: /2009/01/20/photos-inauguration/
-categories:
+tags:
   - current events
   - travel
 ---

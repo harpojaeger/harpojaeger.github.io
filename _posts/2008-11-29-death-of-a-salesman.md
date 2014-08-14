@@ -3,7 +3,7 @@ title: Death of a salesman
 author: Harpo
 layout: post
 permalink: /2008/11/29/death-of-a-salesman/
-categories:
+tags:
   - current events
 ---
 A worker at a Wal-Mart in Long Island was killed yesterday, trampled to death by a mob of shoppers. Truly, it was Black Friday.  

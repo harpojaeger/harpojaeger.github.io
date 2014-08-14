@@ -3,7 +3,7 @@ title: Running late
 author: Harpo
 layout: post
 permalink: /2008/10/30/running-late/
-categories:
+tags:
   - school
   - tech
 ---

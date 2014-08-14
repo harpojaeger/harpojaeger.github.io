@@ -3,7 +3,7 @@ title: Fisking yet another smear against J Street
 author: Harpo
 layout: post
 permalink: /2011/03/04/fisking-yet-another-smear-against-j-street/
-categories:
+tags:
   - current events
   - politics
   - religion

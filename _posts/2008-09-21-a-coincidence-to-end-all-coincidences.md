@@ -3,7 +3,7 @@ title: A coincidence to end all coincidences
 author: Harpo
 layout: post
 permalink: /2008/09/21/a-coincidence-to-end-all-coincidences/
-categories:
+tags:
   - random
 ---
 Let me begin by drawing your attention to the second category in this post: &#8220;random&#8221;. That us exactly what this is; an explanation of sheer randomness.  

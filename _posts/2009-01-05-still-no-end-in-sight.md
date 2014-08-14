@@ -3,7 +3,7 @@ title: Still no end in sight
 author: Harpo
 layout: post
 permalink: /2009/01/05/still-no-end-in-sight/
-categories:
+tags:
   - art
   - internet
   - school

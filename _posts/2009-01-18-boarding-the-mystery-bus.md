@@ -3,7 +3,7 @@ title: Boarding the mystery bus
 author: Harpo
 layout: post
 permalink: /2009/01/18/boarding-the-mystery-bus/
-categories:
+tags:
   - travel
 ---
 &#8220;I&#8217;ve got an invitation / To make a reservation&#8230;&#8221;

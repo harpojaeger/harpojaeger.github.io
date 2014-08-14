@@ -3,7 +3,7 @@ title: On remaining relevant
 author: Harpo
 layout: post
 permalink: /2010/08/23/on-remaining-relevant/
-categories:
+tags:
   - internet
   - politics
 tags:

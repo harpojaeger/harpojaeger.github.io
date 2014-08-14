@@ -3,7 +3,7 @@ title: Adopt-a-parrot
 author: Harpo
 layout: post
 permalink: /2008/12/16/adopt-a-parrot/
-categories:
+tags:
   - family
   - friends
   - random

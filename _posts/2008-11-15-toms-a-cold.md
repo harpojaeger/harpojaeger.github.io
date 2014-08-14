@@ -3,7 +3,7 @@ title: 'Tom&#039;s a-cold'
 author: Harpo
 layout: post
 permalink: /2008/11/15/toms-a-cold/
-categories:
+tags:
   - school
   - tech
 ---

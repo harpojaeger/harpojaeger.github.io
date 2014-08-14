@@ -3,7 +3,7 @@ title: Estoy en México!
 author: Harpo
 layout: post
 permalink: /2011/06/30/estoy-en-mexico/
-categories:
+tags:
   - culture
   - travel
 tags:

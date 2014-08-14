@@ -3,7 +3,7 @@ title: The Refridgerator Shuffle
 author: Harpo
 layout: post
 permalink: /2008/09/09/the-refridgerator-shuffle/
-categories:
+tags:
   - random
 ---
 Our refridgerator has been broken for several weeks, and since our second-floor tenant moved out recently we decided to use his fridge until this Saturday, when our new one will arrive. So every time we need something from the fridge (like this morning when we were all packing our lunches and eating breakfast) we have to go up and down the stairs to get it. Coming downstairs in the morning, one is liable to run into someone carrying a plattter with milk, cereal, and turkey, all headed for the refridgerator.  

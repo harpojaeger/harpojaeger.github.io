@@ -3,7 +3,7 @@ title: Extendable
 author: Harpo
 layout: post
 permalink: /2009/01/19/extendable/
-categories:
+tags:
   - tech
   - travel
 ---

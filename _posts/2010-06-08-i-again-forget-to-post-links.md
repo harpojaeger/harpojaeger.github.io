@@ -3,7 +3,7 @@ title: I again forget to post links
 author: Harpo
 layout: post
 permalink: /2010/06/08/i-again-forget-to-post-links/
-categories:
+tags:
   - current events
   - Jewschool
 tags:

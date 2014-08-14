@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/20/i-like-trains/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - tech
   - travel
 ---

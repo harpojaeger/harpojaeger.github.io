@@ -3,7 +3,7 @@ title: 'Hell&#039;s Trannies'
 author: Harpo
 layout: post
 permalink: /2008/12/06/hells-trannies/
-categories:
+tags:
   - random
   - work
 ---

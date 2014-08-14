@@ -3,9 +3,8 @@ title: The road forward
 author: Harpo
 layout: post
 permalink: /2010/01/19/the-road-forward/
-categories:
-  - current events
 tags:
+  - current events
   - filibuster
   - health care
   - massachusetts

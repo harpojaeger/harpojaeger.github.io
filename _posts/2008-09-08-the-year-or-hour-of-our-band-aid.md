@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/09/08/the-year-or-hour-of-our-band-aid/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - medical
   - religion
 ---

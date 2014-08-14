@@ -3,7 +3,7 @@ title: 'Don&#039;t hate the haters'
 author: Harpo
 layout: post
 permalink: /2010/04/14/dont-hate-the-haters/
-categories:
+tags:
   - culture
   - current events
   - New Voices

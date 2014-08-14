@@ -3,7 +3,7 @@ title: Two by two, hands of blue
 author: Harpo
 layout: post
 permalink: /2009/01/19/two-by-two-hands-of-blue/
-categories:
+tags:
   - tech
   - travel
 ---

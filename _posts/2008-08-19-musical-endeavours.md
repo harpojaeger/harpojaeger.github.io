@@ -3,7 +3,7 @@ title: Musical endeavours
 author: Harpo
 layout: post
 permalink: /2008/08/19/musical-endeavours/
-categories:
+tags:
   - tech
 ---
 As part of my ongoing quest to listen to every song in my iTunes library, I have changed the way my iPhone syncs. It now contains only songs that I have not played. When I play a song, it is removed from the iPhone and replaced by a new song the next time I sync with iTunes. Theoretically, this will force me to listen to new music, potentially expanding the amount I know, and allowing me to free up space by deletig music I don&#8217;t like.  

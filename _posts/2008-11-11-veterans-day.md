@@ -3,7 +3,7 @@ title: 'Veterans&#039; Day'
 author: Harpo
 layout: post
 permalink: /2008/11/11/veterans-day/
-categories:
+tags:
   - current events
 ---
 Joe Biden said something in the vice-presidential debate that I though was very interesting and it wasn&#8217;t a political attack or a policy statement. Here is the excerpt:

@@ -3,7 +3,7 @@ title: 'Just someone whose story you haven&#039;t heard'
 author: Harpo
 layout: post
 permalink: /2010/03/03/just-someone-whose-story-you-havent-heard/
-categories:
+tags:
   - culture
   - current events
   - friends

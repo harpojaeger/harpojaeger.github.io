@@ -3,7 +3,7 @@ title: New things
 author: Harpo
 layout: post
 permalink: /2008/11/09/new-things/
-categories:
+tags:
   - site
   - tech
   - work

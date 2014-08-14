@@ -3,7 +3,7 @@ title: Conservative inconsistency
 author: Harpo
 layout: post
 permalink: /2010/04/30/conservative-inconsistency/
-categories:
+tags:
   - culture
   - current events
   - politics

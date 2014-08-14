@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - current events
 ---
 I think there&#8217;s a key misconception in public and diplomatic approaches to negotiations with Iran.  We look at it as a defiant country, self-centered and uninterested in meaningful contact with the outside world.  To a certain extent, these things are true.  But look at them in the lens of Iran&#8217;s domestic situation.  It&#8217;s crumbling.  It&#8217;s undergone a revolution and a fraudulent election, and the citizens noticed.  Ahmadinejad is in fact a crazy Holocaust denier, but it&#8217;s not like the country&#8217;s being run by a crackpot.  I maintain that the Iranian government is scared s*^#less of what will happen when its citizens come round.

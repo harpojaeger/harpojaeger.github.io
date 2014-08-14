@@ -3,7 +3,7 @@ title: Massachusetts=weird
 author: Harpo
 layout: post
 permalink: /2008/08/22/massachusettsweird/
-categories:
+tags:
   - random
 ---
 Driving to Truro for the weekend, I am struck by how strange the names of towns in MA are. I just passed a sign for Mashpee and Sandwich. Whether Mashpee is a food or an action I cannot say.  

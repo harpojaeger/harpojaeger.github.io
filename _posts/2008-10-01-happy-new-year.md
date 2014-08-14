@@ -3,7 +3,7 @@ title: Happy new year
 author: Harpo
 layout: post
 permalink: /2008/10/01/happy-new-year/
-categories:
+tags:
   - current events
 ---
 I had an excellent day yesterday. It was very good to have a rest and not have to do anything or go anywhere. I even took a nap, which is something I haven&#8217;t done in a long time.  

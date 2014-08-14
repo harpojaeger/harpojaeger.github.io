@@ -3,7 +3,7 @@ title: 'I&#039;m finished&#8230;'
 author: Harpo
 layout: post
 permalink: /2009/01/10/im-finished-2/
-categories:
+tags:
   - current events
   - family
   - friends

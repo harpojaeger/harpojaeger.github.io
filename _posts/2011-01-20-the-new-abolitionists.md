@@ -3,7 +3,7 @@ title: The new abolitionists?
 author: Harpo
 layout: post
 permalink: /2011/01/20/the-new-abolitionists/
-categories:
+tags:
   - culture
   - politics
   - religion

@@ -5,7 +5,7 @@ layout: post
 permalink: /2008/08/14/jews-and-mountains/
 aktt_notify_twitter:
   - yes
-categories:
+tags:
   - travel
 ---
 The institue is in full swing. As we speak, I am standing on top of Mt. Monadnock, having arisen at 4:30 for a (theoretical) 5:30 departure time. I have no cell service, so I&#8217;ll be publishing this when I return to campus. It is now 8:23; I arrived at the summit just before 8. I&#8217;m taking some photos of the view from here, which is incredible.

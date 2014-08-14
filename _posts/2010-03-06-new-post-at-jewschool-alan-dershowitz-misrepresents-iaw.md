@@ -3,7 +3,7 @@ title: 'New post at Jewschool: Alan Dershowitz misrepresents IAW'
 author: Harpo
 layout: post
 permalink: /2010/03/06/new-post-at-jewschool-alan-dershowitz-misrepresents-iaw/
-categories:
+tags:
   - culture
   - friends
   - Jewschool

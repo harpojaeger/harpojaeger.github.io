@@ -3,7 +3,7 @@ title: Office chair?
 author: Harpo
 layout: post
 permalink: /2009/01/16/office-chair/
-categories:
+tags:
   - random
   - travel
 ---

@@ -3,7 +3,7 @@ title: 'Exquisite Corpse: Now with Ajax (courtesy of jQuery)'
 author: Harpo
 layout: post
 permalink: /2009/12/14/exquisite-corpse-now-with-ajax-courtesy-of-jquery/
-categories:
+tags:
   - art
   - site
   - tech

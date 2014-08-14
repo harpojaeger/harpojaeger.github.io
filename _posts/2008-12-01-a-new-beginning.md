@@ -3,7 +3,7 @@ title: A new beginning
 author: Harpo
 layout: post
 permalink: /2008/12/01/a-new-beginning/
-categories:
+tags:
   - friends
   - school
 ---

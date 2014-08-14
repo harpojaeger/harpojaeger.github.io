@@ -3,7 +3,7 @@ title: Departure
 author: Harpo
 layout: post
 permalink: /2009/01/19/departure/
-categories:
+tags:
   - tech
   - travel
 ---

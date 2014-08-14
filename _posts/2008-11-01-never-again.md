@@ -3,7 +3,7 @@ title: Never again
 author: Harpo
 layout: post
 permalink: /2008/11/01/never-again/
-categories:
+tags:
   - school
   - site
   - tech

@@ -3,7 +3,7 @@ title: Spammity spam, wonderful spam
 author: Harpo
 layout: post
 permalink: /2008/09/10/spammity-spam-wonderful-spam/
-categories:
+tags:
   - site
   - tech
 ---

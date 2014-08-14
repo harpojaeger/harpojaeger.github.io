@@ -3,7 +3,7 @@ title: Use your own!
 author: Harpo
 layout: post
 permalink: /2008/09/07/use-your-own/
-categories:
+tags:
   - random
 ---
 Grown tired of others using my bath towel, I decided to take extreme action.  This should make them think at least twice.  

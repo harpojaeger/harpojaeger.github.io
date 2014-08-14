@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - site
 ---
 As you might have noticed, I&#8217;m making some large-ish changes to this site.  As I find that blogging is becoming a bigger and bigger part of how I think about issues, I&#8217;ve made this site much more about the blog.  Looking at some of my favorite blogs, I&#8217;ve tried to present more relevant content to people, and made the site less formally separated.  I felt that those separations weren&#8217;t doing much good, and it would be better to have more information about me, still cleanly organized (I hope) and easy-to-access.

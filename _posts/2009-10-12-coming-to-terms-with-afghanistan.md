@@ -7,7 +7,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+tags:
   - current events
 ---
 <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 10px; padding: 0px;">

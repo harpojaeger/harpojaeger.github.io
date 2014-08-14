@@ -3,7 +3,7 @@ title: Recommendations and mirrors
 author: Harpo
 layout: post
 permalink: /2008/09/29/recommendations-and-mirrors/
-categories:
+tags:
   - school
 ---
 I turned in my various recommendation forms this morning. It is great to have those off of my chest; it severely lightens my load.  

@@ -3,7 +3,7 @@ title: Religious and democratic values
 author: Harpo
 layout: post
 permalink: /2010/06/17/religious-and-democratic-values/
-categories:
+tags:
   - culture
   - current events
   - Jewschool

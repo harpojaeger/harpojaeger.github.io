@@ -3,7 +3,7 @@ title: Milk and others
 author: Harpo
 layout: post
 permalink: /2008/12/21/milk-and-others/
-categories:
+tags:
   - film
   - friends
   - school

@@ -3,7 +3,7 @@ title: 'Occupy Providence: &#8220;This is what an activist dreams about.&#8221;'
 author: Harpo
 layout: post
 permalink: /2011/10/17/occupy-providence-this-is-what-an-activist-dreams-about/
-categories:
+tags:
   - culture
   - current events
   - economics

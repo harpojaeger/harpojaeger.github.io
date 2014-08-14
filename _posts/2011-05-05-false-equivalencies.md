@@ -3,7 +3,7 @@ title: False equivalencies
 author: Harpo
 layout: post
 permalink: /2011/05/05/false-equivalencies/
-categories:
+tags:
   - current events
   - economics
   - politics

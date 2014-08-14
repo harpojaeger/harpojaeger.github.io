@@ -3,7 +3,7 @@ title: Boxing day
 author: Harpo
 layout: post
 permalink: /2008/12/26/boxing-day/
-categories:
+tags:
   - food
   - friends
 ---

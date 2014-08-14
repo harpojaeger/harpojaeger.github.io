@@ -3,7 +3,7 @@ title: Security tunnel
 author: Harpo
 layout: post
 permalink: /2009/01/20/security-tunnel/
-categories:
+tags:
   - current events
   - travel
 ---
