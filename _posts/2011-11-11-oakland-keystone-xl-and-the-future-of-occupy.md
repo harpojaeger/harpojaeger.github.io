@@ -40,10 +40,8 @@ That was veteran environmental activist Bill McKibben on the Keystone XL pipelin
 
 What can #Occupy learn from this?  That it&#8217;s not enough to have passionate people on your side.  If it were, we&#8217;d never have gone to war in Iraq.  We&#8217;d never have passed the PATRIOT act.  We&#8217;d never have <a href="http://www.nytimes.com/2011/10/01/world/middleeast/anwar-al-awlaki-is-killed-in-yemen.html?pagewanted=all" target="_blank">assassinated an American citizen on foreign soil without anything even resembling due process</a>.  And we wouldn&#8217;t continue <a href="http://www.salon.com/2011/11/05/the_drone_mentality/singleton/" target="_blank">using unmanned drones to carry out indiscriminate attacks on uncertain targets</a>.
 
-<div style="width: 250px" class="wp-caption alignright">
-  <a title="Donation receiving tent by Harpo Jaeger, on Flickr" href="http://www.flickr.com/photos/renaissanceboy/6264320286/"><img src="http://farm7.static.flickr.com/6110/6264320286_0cbcec6b5a_m.jpg" alt="Donation receiving tent" width="240" height="180" /></a><p class="wp-caption-text">
-    Occupy Providence donation receiving tent | photo by me
-  </p>
+<div style="float:right;">
+  <a title="Occupy Providence donation receiving tent | photo by me" href="http://www.flickr.com/photos/renaissanceboy/6264320286/"><img src="http://farm7.static.flickr.com/6110/6264320286_0cbcec6b5a_m.jpg" alt="Donation receiving tent" width="240" height="180" /></a>
 </div>
 
 So far, #Occupy&#8217;s energy has been focused on physically sustaining the occupations.  That takes a lot of work, and the amount that&#8217;s been accomplished is nothing short of incredible.  But if Occupy wants to move forward and make a real political difference (like, dare I say, the Tea Party?), we need substantive goals and action strategies.  It&#8217;s clearly possible to turn people out for actions; Occupy Providence had a really strong presence a few weekends ago in a <a href="http://www.youtube.com/watch?v=Pi7aE8RWPI4" target="_blank">demonstration to support their continued occupation of Burnside Park</a>, and have also been sending folks to Bank of America in groups to close their accounts and move their money to local banks.  But actions like this have largely been invisible to the media and not coordinated at a national level.  That can&#8217;t continue.

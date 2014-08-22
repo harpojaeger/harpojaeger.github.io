@@ -18,15 +18,11 @@ tags:
 I spent about an hour on Sunday afternoon at <a href="http://www.facebook.com/OccupyProvidence" target="_blank">Occupy Providence</a> in Burnside Park, interviewing occupiers, taking pictures, and trying to get a general sense of the tenor of the movement.  I was motived by dissatisfaction with most of the reporting I&#8217;ve seen on the Occupy movement.  The tendency seems to be to do some obligatory man-on-the-street interviews, and then turn the footage back over to in-studio talking heads to make points they were going to make anyway.  In other words, Occupy is being used to reinforce existing narratives about politics, social issues, and class.
 
 <div style="width: 250px" class="wp-caption alignright">
-  <a title="Michael McCarthy speaks to the Occupy Providence GA by Harpo Jaeger, on Flickr" href="http://www.flickr.com/photos/renaissanceboy/6250966411/" target="_blank"><img src="http://farm7.static.flickr.com/6231/6250966411_7d384987d3_m.jpg" alt="Michael McCarthy speaks to the Occupy Providence GA" width="240" height="240" /></a><p class="wp-caption-text">
-    Michael McCarthy speaks to the Occupy Providence General Assembly
-  </p>
+  <a title="Michael McCarthy speaks to the Occupy Providence GA" href="http://www.flickr.com/photos/renaissanceboy/6250966411/" target="_blank"><img src="http://farm7.static.flickr.com/6231/6250966411_7d384987d3_m.jpg" alt="Michael McCarthy speaks to the Occupy Providence GA" width="240" height="240" /></a>
 </div>
 
 <div style="width: 190px" class="wp-caption alignright">
-  <a title="Occupy Providence by Harpo Jaeger, on Flickr" href="http://www.flickr.com/photos/renaissanceboy/6251317780/" target="_blank"><img src="http://farm7.static.flickr.com/6214/6251317780_5dd5dd6451_m.jpg" alt="Occupy Providence" width="180" height="240" /></a><p class="wp-caption-text">
-    Signs on the statue of General Ambrose Burnside
-  </p>
+  <a title="Signs on the statue of General Ambrose Burnside" href="http://www.flickr.com/photos/renaissanceboy/6251317780/" target="_blank"><img src="http://farm7.static.flickr.com/6214/6251317780_5dd5dd6451_m.jpg" alt="Occupy Providence" width="180" height="240" /></a>
 </div>
 
 However, most social movements have compelling narratives of their own.  Occupy is no exception.  I encountered a multitude of viewpoints on a variety of issues.  Perhaps most informative were the responses that Occupiers gave when I asked for their opinion on potential *problems* with the movement.  I decided to do this because I wanted to break the paradigm whereby protestors state goals and pundits critique them.  I wanted to hear the movement&#8217;s critiques of itself: what might go wrong, what needs to happen to &#8220;succeed,&#8221; what &#8220;succeeding&#8221; will actually look like, and so on.  I didn&#8217;t get answers to all of these questions, but I&#8217;m planning to go back, and hopefully to camp out for at least a couple nights in the next few days as an embedded Occupier-journalist.
@@ -36,9 +32,7 @@ Here are some of the stories of the people I met today.  All photos are mine, e
 **Gretchen and Arrash Jaber: &#8220;More than just politics&#8221;**
 
 <div style="width: 250px" class="wp-caption alignright">
-  <a title="Gretchen & Arrash Jaber by Harpo Jaeger, on Flickr" href="http://www.flickr.com/photos/renaissanceboy/6251362066/" target="_blank"><img src="http://farm7.static.flickr.com/6226/6251362066_00884810b1_m.jpg" alt="Gretchen & Arrash Jaber" width="240" height="240" /></a><p class="wp-caption-text">
-    Gretchen & Arrash Jaber with son
-  </p>
+  <a title="Gretchen & Arrash Jaber by Harpo Jaeger" href="http://www.flickr.com/photos/renaissanceboy/6251362066/" target="_blank"><img src="http://farm7.static.flickr.com/6226/6251362066_00884810b1_m.jpg" alt="Gretchen & Arrash Jaber" width="240" height="240" /></a>
 </div>
 
 Gretchen didn&#8217;t specify her education level – she&#8217;s currently employed full-time as a mother (the couple&#8217;s son was at the tent with them).  When I asked why they were there, Gretchen told me she wanted to &#8220;be a part of making a change.&#8221;  Arrash has a bachelor&#8217;s degree and is currently employed.  He feels that the Occupy movement isn&#8217;t a purely political one – he listed &#8220;cleaning up the city [Providence]&#8221; as one of the things he thought local Occupiers could organize around, in addition to some more hypothetical concepts like uniting globally with the working- and middle-classes.
@@ -54,9 +48,7 @@ The Providence Fire Department has also lent material support to Occupy Providen
 **Jonathan Lewis: &#8220;This is what an activist dreams about.&#8221;**
 
 <div style="width: 276px" class="wp-caption alignright">
-  <a href="http://positivepeacewarriornetwork.files.wordpress.com/2011/04/coast-2-coast-training-crew.jpg?w=410" target="_blank"><img src="http://positivepeacewarriornetwork.files.wordpress.com/2011/04/coast-2-coast-training-crew.jpg?w=410" alt="" width="266" height="178" /></a><p class="wp-caption-text">
-    Jonathan Lewis (front right) with associates | Image from Positive Peace Warrior Network
-  </p>
+  <a href="http://positivepeacewarriornetwork.files.wordpress.com/2011/04/coast-2-coast-training-crew.jpg?w=410" target="_blank"><img src="http://positivepeacewarriornetwork.files.wordpress.com/2011/04/coast-2-coast-training-crew.jpg?w=410" alt="Jonathan Lewis (front right) with associates | Image from Positive Peace Warrior Network" title="Jonathan Lewis (front right) with associates | Image from Positive Peace Warrior Network" width="266" height="178" /></a>
 </div>
 
 Jonathan is self-employed in nonviolence training.  He&#8217;s the founder of the <a href="http://positivepeacewarriornetwork.wordpress.com/" target="_blank">Positive Peace Warrior Network</a>.  After driving by Occupy Providence yesterday, he decided to return to camp out.  I asked him about the way forward – could Occupy&#8217;s success in physically bringing people together be translated into legislative action?  Would the movement&#8217;s grassroots energy need to be sacrificed?  He replied that it&#8217;s &#8220;not an either-or&#8221; – that it&#8217;s about &#8220;displaying unity&#8221; between these two fronts.  His enthusiasm for in-person organizing was balanced by this pragmatic approach to the messy process of electoral politics – another good sign for Occupy as it progresses.
@@ -64,9 +56,7 @@ Jonathan is self-employed in nonviolence training.  He&#8217;s the founder of t
 **Kyla Coburn and Andy Trench: &#8220;Targeted change&#8221;**
 
 <div style="width: 250px" class="wp-caption alignleft">
-  <a title="Andy Trench by Harpo Jaeger, on Flickr" href="http://www.flickr.com/photos/renaissanceboy/6251409244/" target="_blank"><img src="http://farm7.static.flickr.com/6057/6251409244_973b73a9d8_m.jpg" alt="Andy Trench" width="240" height="240" /></a><p class="wp-caption-text">
-    Andy Trench and son
-  </p>
+  <a title="Andy Trench by Harpo Jaeger" href="http://www.flickr.com/photos/renaissanceboy/6251409244/" target="_blank"><img src="http://farm7.static.flickr.com/6057/6251409244_973b73a9d8_m.jpg" alt="Andy Trench" width="240" height="240" /></a>
 </div>
 
 Kyla and Andy <a href="http://www.kylacoburndesigns.com/" target="_blank">work together as interior designers</a>.  They&#8217;d just arrived at the park with their two children when I met them.  Andy was largely on kid duty, so Kyla did most of the talking – Andy said they shared the same brain anyway.
