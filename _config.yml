@@ -6,12 +6,12 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            harpojaeger.com
-tagline:          '"Senior leftwing Jewish malcontent"'
-description:      'Politics, organizing & two-stroke engines.'
+title:            Harpo Jaeger
+tagline:          'Third-wave pluralist & Senior Leftwing Jewish Malcontent'
+description:      'I write about politics, organizing and two-stroke engines.'
 url:              http://harpojaeger.github.io
 baseurl:          '/'
-paginate:         5
+paginate:         10
 
 author:
   name:           'Harpo Jaeger'
