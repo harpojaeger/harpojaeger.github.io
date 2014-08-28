@@ -3,7 +3,7 @@ layout: page
 title: Exquisite Corpse
 permalink: /projects/exquisite-corpse/
 ---
-
+This is the EC page.
 <script language="javascript" type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script language="javascript" type="text/javascript" src="/scripts/ec.js"></script>
 <span id="already_poems">write the <span id="numlines"></span> (or last) line of this poem&nbsp;(<a href="javascript:;" id="skiplink">or get a different one</a>)<br>
