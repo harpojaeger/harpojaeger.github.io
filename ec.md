@@ -5,8 +5,9 @@ permalink: /projects/exquisite-corpse/
 ---
 <script language="javascript" type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script language="javascript" type="text/javascript" src="/scripts/ec.js"></script>
-<span id="already_poems">write the <span id="numlines"></span> (or last) line of this poem&nbsp;(<a href="javascript:;" id="skiplink">or get a different one</a>)<br>
-<strong><div id="promptline">loading...</div></strong><form id="editform" action="javascript:;"><input type="text" name="submission" id="submission" class="text"/><button type="button" class="button" id="add">add</button><button type="button" class="button" id="end">end</button><img src="/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" id="editloader" width="" height="" class="loader"/><input type="hidden" name="id" id="hidden_prompt_id"/></form>or </span>start a new poem
+<span id="already_poems">write the <span id="numlines"></span> (or last) line of this poem&nbsp;(<a href="javascript:;" id="skiplink">or get a different one</a>)<br><strong>
+<div id="promptline"></div>
+</strong><form id="editform" action="javascript:;"><input type="text" name="submission" id="submission" class="text"/><button type="button" class="button" id="add">add</button><button type="button" class="button" id="end">end</button><img src="/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" id="editloader" width="" height="" class="loader"/><input type="hidden" name="id" id="hidden_prompt_id"/></form>or </span>start a new poem
 <form id="createform" action="javascript:;"><input type="text" name="newsubmission" id="newsubmission" class="text"/><button type="button" class="button" id="start">start</button><img src="/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" width="" height="" class="loader" id="createloader"/></form>
 curently there <span id="are_is">are</span> <span id="num_open_poems"></span> open poem<span id="s">s</span> and <span id="num_completed_poems"></span> completed poems.
 <h3>what is this?</h3>
