@@ -1,0 +1,6 @@
+span#promptline{
+font-weight:bold;
+}
+input[type="text"]{
+width: 250px;
+}
