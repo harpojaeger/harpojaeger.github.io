@@ -37,7 +37,7 @@ refresh_prompt();
 refresh_counters();
 build_navigation();
 update_completed_poems_list();
-
+clear_textfield_values();
 
 }
 function set_prompt_visibility(){
@@ -85,6 +85,10 @@ function refresh_prompt(){
 	//alert($("#hidden_prompt_id").attr("value"));
 
 	});
+}
+
+function clear_textfield_values(){
+$('input:text').val("");
 }
 
 function ord(n){
