@@ -38,7 +38,6 @@ refresh_counters();
 build_navigation();
 update_completed_poems_list();
 clear_textfield_values();
-
 }
 function set_prompt_visibility(){
 $.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/open_poems_counter.php",function(n){
