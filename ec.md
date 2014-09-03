@@ -13,7 +13,7 @@ or </span>start a new poem<form id="createform" action="javascript:;"><input typ
 Currently there <span id="are_is">are</span> <span id="num_open_poems"></span> open poem<span id="s">s</span> and <span id="num_completed_poems"></span> completed poems.
 </div>
 ###What is this?####
-This is an electronic version of the [Surrealist parlor game Exquisite Corpse](http://en.wikipedia.org/wiki/Exquisite_corpse), in which players write a communal poem by each contributing one line, having seen only the one that comes directly before.  [Jon Rendell](http://jonrendell.com/) has some [more interesting information about the origins of the game](http://www.exquisitecorpse.com/definition/about.html) more interesting information about the origins of the game.
+This is an electronic version of the [Surrealist parlor game Exquisite Corpse](http://en.wikipedia.org/wiki/Exquisite_corpse), in which players write a communal poem by each contributing one line, having seen only the one that comes directly before.  [Jon Rendell](http://jonrendell.com/) has some [more interesting information about the origins of the game](http://www.exquisitecorpse.com/definition/about.html).
 
 ###How do I use it?###
 
