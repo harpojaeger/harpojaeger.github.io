@@ -2,6 +2,7 @@
 title: Post-David Byrne
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/02/post-david-byrne/
 tags:
   - music

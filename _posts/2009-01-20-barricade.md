@@ -2,6 +2,7 @@
 title: Barricade
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/20/barricade/
 tags:
   - travel

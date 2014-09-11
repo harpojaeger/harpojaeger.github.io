@@ -2,6 +2,7 @@
 title: Still refusing to see the pattern
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/01/12/still-refusing-to-see-the-pattern/
 tags:
   - current events

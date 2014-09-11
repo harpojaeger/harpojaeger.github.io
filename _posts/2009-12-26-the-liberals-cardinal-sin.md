@@ -2,6 +2,7 @@
 title: 'The liberal&#039;s cardinal sin'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/12/26/the-liberals-cardinal-sin/
 tags:
   - current events

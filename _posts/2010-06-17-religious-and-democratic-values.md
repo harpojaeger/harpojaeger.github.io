@@ -2,6 +2,7 @@
 title: Religious and democratic values
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/06/17/religious-and-democratic-values/
 tags:
   - culture

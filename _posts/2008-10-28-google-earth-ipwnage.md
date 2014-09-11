@@ -2,6 +2,7 @@
 title: Google Earth iPwnage
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/28/google-earth-ipwnage/
 tags:
   - tech

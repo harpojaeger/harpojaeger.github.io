@@ -2,6 +2,7 @@
 title: On remaining relevant
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/08/23/on-remaining-relevant/
 tags:
   - internet

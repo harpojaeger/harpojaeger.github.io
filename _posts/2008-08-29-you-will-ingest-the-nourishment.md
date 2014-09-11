@@ -2,6 +2,7 @@
 title: '&quot;You will ingest the nourishment&quot;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/29/you-will-ingest-the-nourishment/
 tags:
   - random

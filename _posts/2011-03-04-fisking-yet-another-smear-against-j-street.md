@@ -2,6 +2,7 @@
 title: Fisking yet another smear against J Street
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/03/04/fisking-yet-another-smear-against-j-street/
 tags:
   - current events

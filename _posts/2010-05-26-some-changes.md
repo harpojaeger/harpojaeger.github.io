@@ -2,6 +2,7 @@
 title: Some changes
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/05/26/some-changes/
 tags:
   - school

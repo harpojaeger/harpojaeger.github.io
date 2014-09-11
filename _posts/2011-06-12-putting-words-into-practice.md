@@ -2,6 +2,7 @@
 title: Putting words into practice
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/06/12/putting-words-into-practice/
 tags:
   - current events

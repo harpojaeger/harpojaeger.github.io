@@ -2,6 +2,7 @@
 title: 'Is it still a snow day if it&#039;s on Sunday?'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/11/is-it-still-a-snow-day-if-its-on-sunday/
 tags:
   - friends

@@ -2,6 +2,7 @@
 title: Structureless
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/06/09/structureless/
 aktt_notify_twitter:
   - yes

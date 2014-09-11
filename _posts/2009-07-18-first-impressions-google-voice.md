@@ -2,6 +2,7 @@
 title: 'First impressions: Google Voice'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/18/first-impressions-google-voice/
 aktt_notify_twitter:
   - yes

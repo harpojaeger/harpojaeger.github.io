@@ -2,6 +2,7 @@
 title: Important updates
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/06/12/important-updates/
 tags:
   - current events

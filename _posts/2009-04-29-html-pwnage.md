@@ -2,6 +2,7 @@
 title: HTML PWNAGE!
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/04/29/html-pwnage/
 aktt_notify_twitter:
   - yes

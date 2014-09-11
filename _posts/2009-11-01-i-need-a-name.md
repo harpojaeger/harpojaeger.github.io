@@ -2,6 +2,7 @@
 title: I need a name!
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/01/i-need-a-name/
 aktt_notify_twitter:
   - yes

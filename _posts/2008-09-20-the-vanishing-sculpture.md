@@ -2,6 +2,7 @@
 title: The vanishing sculpture
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/20/the-vanishing-sculpture/
 aktt_notify_twitter:
   - yes

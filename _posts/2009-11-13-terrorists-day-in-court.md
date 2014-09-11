@@ -2,6 +2,7 @@
 title: 'Terrorists&#039; day in court'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/13/terrorists-day-in-court/
 aktt_notify_twitter:
   - yes

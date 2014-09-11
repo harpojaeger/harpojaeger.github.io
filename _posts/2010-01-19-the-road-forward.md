@@ -2,6 +2,7 @@
 title: The road forward
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/01/19/the-road-forward/
 tags:
   - current events

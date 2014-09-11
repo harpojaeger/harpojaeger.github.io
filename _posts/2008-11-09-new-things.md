@@ -2,6 +2,7 @@
 title: New things
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/09/new-things/
 tags:
   - site

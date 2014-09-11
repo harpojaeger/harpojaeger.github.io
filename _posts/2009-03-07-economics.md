@@ -2,6 +2,7 @@
 title: Economics
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/07/economics/
 aktt_notify_twitter:
   - yes

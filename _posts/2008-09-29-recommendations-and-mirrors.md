@@ -2,6 +2,7 @@
 title: Recommendations and mirrors
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/29/recommendations-and-mirrors/
 tags:
   - school

@@ -2,6 +2,7 @@
 title: The fast is broken
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/09/the-fast-is-broken/
 aktt_notify_twitter:
   - yes

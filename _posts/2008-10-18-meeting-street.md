@@ -2,6 +2,7 @@
 title: Meeting Street
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/18/meeting-street/
 tags:
   - random

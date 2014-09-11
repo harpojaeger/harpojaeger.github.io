@@ -2,6 +2,7 @@
 title: 'Just someone whose story you haven&#039;t heard'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/03/03/just-someone-whose-story-you-havent-heard/
 tags:
   - culture

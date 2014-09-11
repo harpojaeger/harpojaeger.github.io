@@ -2,6 +2,7 @@
 title: NYT executive editor Bill Keller gets it exactly right
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/03/27/nyt-executive-editor-bill-keller-gets-it-exactly-right/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: The dangers of euphemisms
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/01/the-dangers-of-euphemisms/
 aktt_notify_twitter:
   - yes

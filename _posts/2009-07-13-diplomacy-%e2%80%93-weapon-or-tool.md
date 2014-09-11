@@ -2,6 +2,7 @@
 title: Diplomacy – weapon or tool?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/13/diplomacy-%e2%80%93-weapon-or-tool/
 aktt_notify_twitter:
   - yes

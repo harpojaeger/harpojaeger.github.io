@@ -2,6 +2,7 @@
 title: Wikipedia and bed
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/07/wikipedia-and-bed/
 aktt_notify_twitter:
   - yes

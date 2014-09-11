@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: Opening session, introductions, and surprises'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/24/cross-posted-from-jewschool-opening-session-introductions-and-surprises/
 aktt_notify_twitter:
   - yes

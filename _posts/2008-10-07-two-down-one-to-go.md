@@ -2,6 +2,7 @@
 title: Two down, one to go
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/07/two-down-one-to-go/
 tags:
   - current events

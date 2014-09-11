@@ -2,6 +2,7 @@
 title: 'Dumb Slog Nilly O&#039;Mare&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/25/dumb-slog-nilly-omare/
 aktt_notify_twitter:
   - yes

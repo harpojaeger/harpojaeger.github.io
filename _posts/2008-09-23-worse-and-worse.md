@@ -2,6 +2,7 @@
 title: Worse and worse
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/23/worse-and-worse/
 aktt_notify_twitter:
   - yes

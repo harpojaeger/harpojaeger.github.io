@@ -2,6 +2,7 @@
 title: 'A full weekend&#039;s work'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/05/a-full-weekends-work/
 tags:
   - school

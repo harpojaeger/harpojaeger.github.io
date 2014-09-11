@@ -2,6 +2,7 @@
 title: Let no question go unanswered
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/08/let-no-question-go-unanswered/
 tags:
   - random

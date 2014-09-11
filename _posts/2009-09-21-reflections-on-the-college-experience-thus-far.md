@@ -2,6 +2,7 @@
 title: Reflections on the college experience thus far
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/21/reflections-on-the-college-experience-thus-far/
 aktt_notify_twitter:
   - yes

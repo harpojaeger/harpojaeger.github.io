@@ -2,6 +2,7 @@
 title: 'NHC Summer Institute 2009: Day 1.5'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/05/nhc-summer-institute-2009-day-1-5/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: 'Quantum of Solace&#039;d'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/14/quantum-of-solaced/
 tags:
   - random

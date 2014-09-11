@@ -2,6 +2,7 @@
 title: The Year (or Hour) of Our Band-aid
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/08/the-year-or-hour-of-our-band-aid/
 aktt_notify_twitter:
   - yes

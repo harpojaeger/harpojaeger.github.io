@@ -2,6 +2,7 @@
 title: The smear campaign against the New Israel Fund
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/02/02/the-smear-campaign-against-the-new-israel-fund/
 tags:
   - culture

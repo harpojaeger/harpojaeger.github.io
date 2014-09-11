@@ -2,6 +2,7 @@
 title: Eco-friendly?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/09/eco-friendly/
 tags:
   - current events

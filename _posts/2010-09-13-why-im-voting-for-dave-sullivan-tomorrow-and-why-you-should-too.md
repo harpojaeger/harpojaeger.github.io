@@ -2,6 +2,7 @@
 title: 'Why I&#8217;m voting for Dave Sullivan tomorrow (and why you should too)'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/09/13/why-im-voting-for-dave-sullivan-tomorrow-and-why-you-should-too/
 tags:
   - culture

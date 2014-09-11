@@ -2,6 +2,7 @@
 title: Let the work begin
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/16/let-the-work-begin/
 tags:
   - school

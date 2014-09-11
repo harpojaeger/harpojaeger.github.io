@@ -2,6 +2,7 @@
 title: 'I&#039;m finished'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/14/im-finished/
 tags:
   - random

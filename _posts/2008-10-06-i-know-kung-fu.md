@@ -2,6 +2,7 @@
 title: I know kung-fu
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/06/i-know-kung-fu/
 tags:
   - school

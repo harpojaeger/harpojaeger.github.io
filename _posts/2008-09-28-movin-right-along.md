@@ -2,6 +2,7 @@
 title: 'Movin&#039; right along'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/28/movin-right-along/
 tags:
   - school

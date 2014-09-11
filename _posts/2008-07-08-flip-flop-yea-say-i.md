@@ -2,6 +2,7 @@
 title: '&quot;Flip-flop&quot;?  Yea&#x2c; say I.'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/07/08/flip-flop-yea-say-i/
 tags:
   - current events

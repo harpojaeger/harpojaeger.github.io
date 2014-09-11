@@ -2,6 +2,7 @@
 title: Buckling down
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/26/buckling-down/
 tags:
   - school

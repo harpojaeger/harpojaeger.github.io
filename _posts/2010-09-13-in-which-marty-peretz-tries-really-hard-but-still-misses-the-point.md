@@ -2,6 +2,7 @@
 title: In which Marty Peretz tries really hard, but still misses the point
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/09/13/in-which-marty-peretz-tries-really-hard-but-still-misses-the-point/
 tags:
   - current events

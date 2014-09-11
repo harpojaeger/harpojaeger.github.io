@@ -2,6 +2,7 @@
 title: NASA progress
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/08/nasa-progress/
 tags:
   - random

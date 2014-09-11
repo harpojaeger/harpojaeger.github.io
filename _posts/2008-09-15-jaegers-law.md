@@ -2,6 +2,7 @@
 title: 'Jaeger&#039;s Law'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/15/jaegers-law/
 tags:
   - random

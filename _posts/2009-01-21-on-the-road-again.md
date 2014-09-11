@@ -2,6 +2,7 @@
 title: On the road again
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/21/on-the-road-again/
 tags:
   - travel

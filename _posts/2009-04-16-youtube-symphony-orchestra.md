@@ -2,6 +2,7 @@
 title: YouTube Symphony Orchestra
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/04/16/youtube-symphony-orchestra/
 aktt_notify_twitter:
   - yes

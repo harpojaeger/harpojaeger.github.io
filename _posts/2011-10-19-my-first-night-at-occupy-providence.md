@@ -2,6 +2,7 @@
 title: My first night at Occupy Providence
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/10/19/my-first-night-at-occupy-providence/
 tags:
   - culture

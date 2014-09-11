@@ -2,6 +2,7 @@
 title: 'Oakland, Keystone XL, and the future of #Occupy'
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/11/11/oakland-keystone-xl-and-the-future-of-occupy/
 tags:
   - current events

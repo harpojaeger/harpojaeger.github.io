@@ -2,6 +2,7 @@
 title: Never again
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/01/never-again/
 tags:
   - school

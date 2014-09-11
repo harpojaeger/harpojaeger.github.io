@@ -2,6 +2,7 @@
 title: Conservation
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/15/conservation/
 tags:
   - current events

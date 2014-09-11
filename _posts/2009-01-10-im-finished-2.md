@@ -2,6 +2,7 @@
 title: 'I&#039;m finished&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/10/im-finished-2/
 tags:
   - current events

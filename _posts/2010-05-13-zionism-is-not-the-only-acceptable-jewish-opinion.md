@@ -2,6 +2,7 @@
 title: Zionism is not the only acceptable Jewish opinion
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/05/13/zionism-is-not-the-only-acceptable-jewish-opinion/
 tags:
   - New Voices

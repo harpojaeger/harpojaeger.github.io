@@ -2,6 +2,7 @@
 title: ULTIMATE AWESOMENESS
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/10/ultimate-awesomeness/
 aktt_notify_twitter:
   - yes

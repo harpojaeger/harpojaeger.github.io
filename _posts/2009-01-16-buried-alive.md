@@ -2,6 +2,7 @@
 title: Buried alive
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/16/buried-alive/
 tags:
   - family

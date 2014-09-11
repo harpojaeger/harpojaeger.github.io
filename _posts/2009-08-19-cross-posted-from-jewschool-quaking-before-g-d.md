@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: Quaking before G-d'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/19/cross-posted-from-jewschool-quaking-before-g-d/
 aktt_notify_twitter:
   - yes

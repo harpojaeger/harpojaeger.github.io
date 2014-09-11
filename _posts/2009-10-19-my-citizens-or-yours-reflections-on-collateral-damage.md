@@ -2,6 +2,7 @@
 title: 'My citizens or yours: reflections on &quot;collateral damage&quot;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/19/my-citizens-or-yours-reflections-on-collateral-damage/
 aktt_notify_twitter:
   - yes

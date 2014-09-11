@@ -2,6 +2,7 @@
 title: Security tunnel
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/20/security-tunnel/
 tags:
   - current events

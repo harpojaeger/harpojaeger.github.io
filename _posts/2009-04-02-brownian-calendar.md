@@ -2,6 +2,7 @@
 title: Brownian Calendar
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/04/02/brownian-calendar/
 aktt_notify_twitter:
   - yes

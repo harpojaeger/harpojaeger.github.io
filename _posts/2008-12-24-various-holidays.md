@@ -2,6 +2,7 @@
 title: Various holidays
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/24/various-holidays/
 tags:
   - family

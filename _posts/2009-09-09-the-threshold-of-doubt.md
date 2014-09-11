@@ -2,6 +2,7 @@
 title: The threshold of doubt
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/09/the-threshold-of-doubt/
 aktt_tweeted:
   - 1

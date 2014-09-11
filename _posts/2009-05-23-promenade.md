@@ -2,6 +2,7 @@
 title: Promenade
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/23/promenade/
 aktt_notify_twitter:
   - yes

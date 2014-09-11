@@ -2,6 +2,7 @@
 title: 'Exquisite Corpse: Now with timestamps!'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/12/exquisite-corpse-now-with-timestamps/
 aktt_notify_twitter:
   - yes

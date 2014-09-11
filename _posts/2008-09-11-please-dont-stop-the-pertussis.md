@@ -2,6 +2,7 @@
 title: 'Please Don&#039;t Stop the Pertussis'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/11/please-dont-stop-the-pertussis/
 aktt_notify_twitter:
   - yes

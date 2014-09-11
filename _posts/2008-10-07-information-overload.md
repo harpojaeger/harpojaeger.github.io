@@ -2,6 +2,7 @@
 title: Information overload
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/07/information-overload/
 tags:
   - school

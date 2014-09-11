@@ -2,6 +2,7 @@
 title: 'Israel &#8211; Iran; why the connection?'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/06/17/israel-iran-why-the-connection/
 aktt_notify_twitter:
   - yes

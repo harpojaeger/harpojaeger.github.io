@@ -2,6 +2,7 @@
 title: Glassware
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/06/glassware/
 aktt_notify_twitter:
   - yes

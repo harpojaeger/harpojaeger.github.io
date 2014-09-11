@@ -2,6 +2,7 @@
 title: Coming to terms with Afghanistan
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/12/coming-to-terms-with-afghanistan/
 aktt_notify_twitter:
   - yes

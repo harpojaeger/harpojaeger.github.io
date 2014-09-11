@@ -2,6 +2,7 @@
 title: 'Tonight&#8217;s forum on the Northampton budget'
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/04/01/tonights-forum-on-the-northampton-budget/
 tags:
   - local

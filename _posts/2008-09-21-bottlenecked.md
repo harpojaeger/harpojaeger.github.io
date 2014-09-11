@@ -2,6 +2,7 @@
 title: Bottlenecked
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/bottlenecked/
 tags:
   - tech

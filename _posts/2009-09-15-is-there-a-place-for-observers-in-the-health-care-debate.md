@@ -2,6 +2,7 @@
 title: Is there a place for observers in the health care debate?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/15/is-there-a-place-for-observers-in-the-health-care-debate/
 aktt_notify_twitter:
   - yes

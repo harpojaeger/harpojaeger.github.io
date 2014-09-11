@@ -2,6 +2,7 @@
 title: Conservative inconsistency
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/04/30/conservative-inconsistency/
 tags:
   - culture

@@ -2,6 +2,7 @@
 title: 'The last presidential debate&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/15/the-last-presidential-debate/
 tags:
   - current events

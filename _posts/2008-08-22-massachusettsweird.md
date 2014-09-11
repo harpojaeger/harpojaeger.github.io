@@ -2,6 +2,7 @@
 title: Massachusetts=weird
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/22/massachusettsweird/
 tags:
   - random

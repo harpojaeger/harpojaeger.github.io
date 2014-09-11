@@ -2,6 +2,7 @@
 title: A crisis of expectations
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/04/a-crisis-of-expectations/
 aktt_notify_twitter:
   - yes

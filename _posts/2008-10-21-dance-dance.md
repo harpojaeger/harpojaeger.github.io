@@ -2,6 +2,7 @@
 title: Dance, dance
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/21/dance-dance/
 tags:
   - school

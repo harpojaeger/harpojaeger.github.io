@@ -2,6 +2,7 @@
 title: Droundhog Gay
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/01/droundhog-gay/
 aktt_notify_twitter:
   - yes

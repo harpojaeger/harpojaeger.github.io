@@ -2,6 +2,7 @@
 title: Brown notification update
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/10/brown-notification-update/
 tags:
   - school

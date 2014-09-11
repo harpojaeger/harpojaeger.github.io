@@ -2,6 +2,7 @@
 title: Waltz With Bashir
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/27/waltz-with-bashir/
 aktt_notify_twitter:
   - yes

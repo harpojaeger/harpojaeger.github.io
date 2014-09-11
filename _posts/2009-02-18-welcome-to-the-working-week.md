@@ -2,6 +2,7 @@
 title: Welcome to the working week
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/18/welcome-to-the-working-week/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Great timing
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/24/great-timing-guys/
 tags:
   - tech

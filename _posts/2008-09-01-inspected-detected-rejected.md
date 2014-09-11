@@ -2,6 +2,7 @@
 title: 'Inspected, detected, rejected&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/01/inspected-detected-rejected/
 aktt_notify_twitter:
   - yes

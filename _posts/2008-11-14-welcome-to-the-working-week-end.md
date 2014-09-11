@@ -2,6 +2,7 @@
 title: 'Welcome to the Working Week[end]'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/14/welcome-to-the-working-week-end/
 tags:
   - school

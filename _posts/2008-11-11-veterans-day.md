@@ -2,6 +2,7 @@
 title: 'Veterans&#039; Day'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/11/veterans-day/
 tags:
   - current events

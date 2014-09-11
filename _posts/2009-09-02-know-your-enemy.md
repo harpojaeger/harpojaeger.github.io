@@ -2,6 +2,7 @@
 title: Know your enemy?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/02/know-your-enemy/
 aktt_notify_twitter:
   - yes

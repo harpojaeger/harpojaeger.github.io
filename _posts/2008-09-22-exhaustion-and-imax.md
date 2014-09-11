@@ -2,6 +2,7 @@
 title: Exhaustion and IMAX
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/22/exhaustion-and-imax/
 tags:
   - school

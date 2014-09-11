@@ -2,6 +2,7 @@
 title: Happy new year
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/01/happy-new-year/
 tags:
   - current events

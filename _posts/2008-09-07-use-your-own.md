@@ -2,6 +2,7 @@
 title: Use your own!
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/07/use-your-own/
 tags:
   - random

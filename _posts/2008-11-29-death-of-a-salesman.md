@@ -2,6 +2,7 @@
 title: Death of a salesman
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/29/death-of-a-salesman/
 tags:
   - current events

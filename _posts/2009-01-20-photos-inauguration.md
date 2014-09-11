@@ -2,6 +2,7 @@
 title: 'Photos: Inauguration'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/20/photos-inauguration/
 tags:
   - current events

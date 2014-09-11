@@ -2,6 +2,7 @@
 title: Not so much
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/19/not-so-much/
 aktt_notify_twitter:
   - yes

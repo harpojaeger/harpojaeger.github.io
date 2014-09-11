@@ -2,6 +2,7 @@
 title: Musical endeavours
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/19/musical-endeavours/
 tags:
   - tech

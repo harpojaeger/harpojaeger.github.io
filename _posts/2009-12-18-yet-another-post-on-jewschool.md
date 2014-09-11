@@ -2,6 +2,7 @@
 title: Yet another post on Jewschool
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/12/18/yet-another-post-on-jewschool/
 tags:
   - culture

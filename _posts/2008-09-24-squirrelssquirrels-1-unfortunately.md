@@ -2,6 +2,7 @@
 title: $squirrels=squirrels-1; //unfortunately
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/24/squirrelssquirrels-1-unfortunately/
 tags:
   - school

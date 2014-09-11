@@ -2,6 +2,7 @@
 title: Happy birthday, Macintosh
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/24/happy-birthday-macintosh/
 tags:
   - tech

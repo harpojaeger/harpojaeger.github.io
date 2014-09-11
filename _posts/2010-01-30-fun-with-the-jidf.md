@@ -2,6 +2,7 @@
 title: Fun with the JIDF
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/01/30/fun-with-the-jidf/
 tags:
   - culture

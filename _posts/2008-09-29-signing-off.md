@@ -2,6 +2,7 @@
 title: Signing off
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/29/signing-off/
 aktt_notify_twitter:
   - yes

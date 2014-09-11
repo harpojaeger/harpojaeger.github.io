@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: To date or not to date?'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/06/cross-posted-from-jewschool-to-date-or-not-to-date/
 aktt_notify_twitter:
   - yes

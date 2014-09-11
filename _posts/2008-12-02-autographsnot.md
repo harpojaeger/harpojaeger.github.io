@@ -2,6 +2,7 @@
 title: 'Autographs&#8230;NOT'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/02/autographsnot/
 tags:
   - friends

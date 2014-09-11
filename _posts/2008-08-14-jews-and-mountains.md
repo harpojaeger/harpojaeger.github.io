@@ -2,6 +2,7 @@
 title: Jews and Mountains
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/14/jews-and-mountains/
 aktt_notify_twitter:
   - yes

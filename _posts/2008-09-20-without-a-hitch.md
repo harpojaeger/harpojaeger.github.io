@@ -2,6 +2,7 @@
 title: Without a hitch
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/20/without-a-hitch/
 aktt_notify_twitter:
   - yes

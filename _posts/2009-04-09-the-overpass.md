@@ -2,6 +2,7 @@
 title: The Overpass
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/04/09/the-overpass/
 aktt_notify_twitter:
   - yes

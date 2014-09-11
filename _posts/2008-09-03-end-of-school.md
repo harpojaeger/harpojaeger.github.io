@@ -2,6 +2,7 @@
 title: End of school
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/03/end-of-school/
 tags:
   - random

@@ -2,6 +2,7 @@
 title: One last day
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/04/one-last-day/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: Fun with tow trucks
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/27/fun-with-tow-trucks/
 aktt_notify_twitter:
   - yes

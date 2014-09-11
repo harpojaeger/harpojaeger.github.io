@@ -2,6 +2,7 @@
 title: Why is everyone so afraid of a wise Latina?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/29/why-is-everyone-so-afraid-of-a-wise-latina/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: 'NASA&#8230;again'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/15/nasaagain/
 tags:
   - random

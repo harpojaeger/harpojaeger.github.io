@@ -2,6 +2,7 @@
 title: 'Obama&#039;s best speech yet'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/09/obamas-best-speech-yet/
 aktt_notify_twitter:
   - yes

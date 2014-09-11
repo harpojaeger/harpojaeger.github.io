@@ -2,6 +2,7 @@
 title: First week
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/05/first-week/
 tags:
   - school

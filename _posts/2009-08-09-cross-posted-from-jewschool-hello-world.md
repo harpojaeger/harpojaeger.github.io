@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: Hello, world'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/09/cross-posted-from-jewschool-hello-world/
 aktt_notify_twitter:
   - yes

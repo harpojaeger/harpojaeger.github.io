@@ -2,6 +2,7 @@
 title: An unsung benefit of reconciliation
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/03/04/an-unsung-benefit-of-reconciliation/
 tags:
   - culture

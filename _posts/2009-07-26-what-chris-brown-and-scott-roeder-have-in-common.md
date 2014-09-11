@@ -2,6 +2,7 @@
 title: What Chris Brown and Scott Roeder have in common
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/26/what-chris-brown-and-scott-roeder-have-in-common/
 aktt_notify_twitter:
   - yes

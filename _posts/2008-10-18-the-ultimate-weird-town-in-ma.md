@@ -2,6 +2,7 @@
 title: The Ultimate Weird Town in MA
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/18/the-ultimate-weird-town-in-ma/
 tags:
   - random

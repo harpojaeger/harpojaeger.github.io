@@ -2,6 +2,7 @@
 title: 'Don&#039;t hate the haters'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/04/14/dont-hate-the-haters/
 tags:
   - culture

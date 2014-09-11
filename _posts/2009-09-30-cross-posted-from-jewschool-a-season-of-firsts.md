@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: A season of firsts'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/30/cross-posted-from-jewschool-a-season-of-firsts/
 aktt_notify_twitter:
   - yes

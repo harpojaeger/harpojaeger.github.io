@@ -2,6 +2,7 @@
 title: 'Tom&#039;s a-cold'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/15/toms-a-cold/
 tags:
   - school

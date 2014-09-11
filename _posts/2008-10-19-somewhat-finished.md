@@ -2,6 +2,7 @@
 title: Somewhat finished
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/19/somewhat-finished/
 tags:
   - school

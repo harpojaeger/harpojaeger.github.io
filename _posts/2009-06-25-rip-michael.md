@@ -2,6 +2,7 @@
 title: RIP Michael
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/06/25/rip-michael/
 aktt_notify_twitter:
   - yes

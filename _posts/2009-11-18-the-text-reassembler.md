@@ -2,6 +2,7 @@
 title: The Text Reassembler
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/18/the-text-reassembler/
 aktt_notify_twitter:
   - yes

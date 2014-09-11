@@ -2,6 +2,7 @@
 title: Bond approaches
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/13/bond-approaches/
 tags:
   - tech

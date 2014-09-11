@@ -2,6 +2,7 @@
 title: POSTING OVERLOAD
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/10/07/posting-overload/
 tags:
   - current events

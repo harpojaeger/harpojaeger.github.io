@@ -2,6 +2,7 @@
 title: NASA update
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/03/nasa-update/
 tags:
   - random

@@ -2,6 +2,7 @@
 title: 'It&#039;s electric'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/20/its-electric/
 tags:
   - tech

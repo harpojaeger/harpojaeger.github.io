@@ -2,6 +2,7 @@
 title: Why do we expect Iran to be doing anything different?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/09/29/why-do-we-expect-iran-to-be-doing-anything-different/
 aktt_notify_twitter:
   - yes

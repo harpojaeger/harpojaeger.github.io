@@ -2,6 +2,7 @@
 title: 'Know what this is?  A brain-sucker.'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/22/know-what-this-is-a-brain-sucker/
 tags:
   - school

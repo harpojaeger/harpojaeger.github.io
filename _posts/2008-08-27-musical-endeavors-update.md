@@ -2,6 +2,7 @@
 title: Musical endeavors update
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/27/musical-endeavors-update/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: VP Debates
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/02/vp-debates/
 tags:
   - current events

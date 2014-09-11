@@ -2,6 +2,7 @@
 title: New post for New Voices on IAW
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/03/09/new-post-for-new-voices-on-iaw/
 tags:
   - culture

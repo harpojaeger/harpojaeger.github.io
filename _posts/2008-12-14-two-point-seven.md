@@ -2,6 +2,7 @@
 title: Two point seven
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/14/two-point-seven/
 tags:
   - site

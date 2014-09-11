@@ -2,6 +2,7 @@
 title: '&quot;Debates&quot; and college'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/27/debates-and-college/
 tags:
   - current events

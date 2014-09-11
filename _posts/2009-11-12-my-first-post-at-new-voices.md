@@ -2,6 +2,7 @@
 title: My first post at New Voices!
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/12/my-first-post-at-new-voices/
 aktt_notify_twitter:
   - yes

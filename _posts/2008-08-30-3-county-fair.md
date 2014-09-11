@@ -2,6 +2,7 @@
 title: 3-County Fair
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/30/3-county-fair/
 tags:
   - random

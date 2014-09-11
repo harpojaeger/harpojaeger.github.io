@@ -2,6 +2,7 @@
 title: Robitripping?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/23/robitripping/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: How should news sources decide who to give coverage to?
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/04/26/how-should-news-sources-decide-who-to-give-coverage-to/
 tags:
   - current events

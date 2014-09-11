@@ -2,6 +2,7 @@
 title: Starlight Swing
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/18/starlight-swing/
 tags:
   - dance

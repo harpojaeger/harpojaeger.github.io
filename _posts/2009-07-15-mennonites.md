@@ -2,6 +2,7 @@
 title: Mennonites
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/07/15/mennonites/
 aktt_notify_twitter:
   - yes

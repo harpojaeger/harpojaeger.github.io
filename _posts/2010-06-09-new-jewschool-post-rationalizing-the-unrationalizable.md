@@ -2,6 +2,7 @@
 title: 'New Jewschool post: Rationalizing the unrationalizable'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/06/09/new-jewschool-post-rationalizing-the-unrationalizable/
 tags:
   - current events

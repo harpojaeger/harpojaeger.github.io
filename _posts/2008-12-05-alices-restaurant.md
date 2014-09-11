@@ -2,6 +2,7 @@
 title: 'Alice&#039;s Restaurant'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/05/alices-restaurant/
 tags:
   - friends

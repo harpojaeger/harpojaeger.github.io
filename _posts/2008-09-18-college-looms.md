@@ -2,6 +2,7 @@
 title: College looms
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/18/college-looms/
 tags:
   - school

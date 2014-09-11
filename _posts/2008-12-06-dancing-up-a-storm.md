@@ -2,6 +2,7 @@
 title: Dancing up a storm
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/06/dancing-up-a-storm/
 tags:
   - dance

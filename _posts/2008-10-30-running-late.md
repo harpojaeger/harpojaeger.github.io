@@ -2,6 +2,7 @@
 title: Running late
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/30/running-late/
 tags:
   - school

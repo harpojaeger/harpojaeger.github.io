@@ -2,6 +2,7 @@
 title: First day of school
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/01/first-day-of-school/
 aktt_notify_twitter:
   - yes

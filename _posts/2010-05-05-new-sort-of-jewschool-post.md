@@ -2,6 +2,7 @@
 title: New (sort of) Jewschool post
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/05/05/new-sort-of-jewschool-post/
 tags:
   - Jewschool

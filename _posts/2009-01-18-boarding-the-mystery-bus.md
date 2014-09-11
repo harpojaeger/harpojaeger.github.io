@@ -2,6 +2,7 @@
 title: Boarding the mystery bus
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/18/boarding-the-mystery-bus/
 tags:
   - travel

@@ -2,6 +2,7 @@
 title: So much to say
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/so-much-to-say/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: The Refridgerator Shuffle
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/09/the-refridgerator-shuffle/
 tags:
   - random

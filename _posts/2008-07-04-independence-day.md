@@ -2,6 +2,7 @@
 title: Independence Day
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/07/04/independence-day/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Great success
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/18/great-success/
 tags:
   - dance

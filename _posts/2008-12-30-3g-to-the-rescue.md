@@ -2,6 +2,7 @@
 title: 3G to the rescue!
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/30/3g-to-the-rescue/
 tags:
   - tech

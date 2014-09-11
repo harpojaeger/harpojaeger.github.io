@@ -2,6 +2,7 @@
 title: In a handbag?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/20/in-a-handbag/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: 'And so it is sealed&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/08/and-so-it-is-sealed/
 aktt_notify_twitter:
   - yes

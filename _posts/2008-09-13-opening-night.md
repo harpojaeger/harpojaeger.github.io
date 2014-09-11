@@ -2,6 +2,7 @@
 title: 'Opening night&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/13/opening-night/
 tags:
   - random

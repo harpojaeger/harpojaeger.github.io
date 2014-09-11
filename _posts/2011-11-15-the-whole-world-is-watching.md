@@ -2,8 +2,8 @@
 title: '&#8220;The whole world is watching&#8221;'
 author: Harpo
 layout: post
-permalink: /2011/11/15/the-whole-world-is-watching/
 comments: true
+permalink: /2011/11/15/the-whole-world-is-watching/
 tags:
   - current events
   - politics

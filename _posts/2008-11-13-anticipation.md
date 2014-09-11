@@ -2,6 +2,7 @@
 title: Anticipation
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/13/anticipation/
 tags:
   - random

@@ -2,6 +2,7 @@
 title: Sunset and surprises
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/02/sunset-and-surprises/
 tags:
   - friends

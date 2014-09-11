@@ -2,6 +2,7 @@
 title: 'Check out J Street&#8217;s newest campaign'
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/01/19/check-out-j-streets-newest-campaign/
 tags:
   - current events

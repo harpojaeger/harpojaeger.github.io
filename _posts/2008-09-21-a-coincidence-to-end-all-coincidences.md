@@ -2,6 +2,7 @@
 title: A coincidence to end all coincidences
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/a-coincidence-to-end-all-coincidences/
 tags:
   - random

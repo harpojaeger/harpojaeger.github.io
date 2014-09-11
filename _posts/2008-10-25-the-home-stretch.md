@@ -2,6 +2,7 @@
 title: The home stretch
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/25/the-home-stretch/
 tags:
   - school

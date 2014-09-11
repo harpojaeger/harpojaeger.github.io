@@ -2,6 +2,7 @@
 title: The end of a long weekend
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/26/the-end-of-a-long-weekend/
 tags:
   - school

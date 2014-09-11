@@ -2,6 +2,7 @@
 title: Deploying the calculus
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/15/deploying-the-calculus/
 tags:
   - school

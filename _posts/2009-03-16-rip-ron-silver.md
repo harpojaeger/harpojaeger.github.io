@@ -2,6 +2,7 @@
 title: RIP Ron Silver
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/16/rip-ron-silver/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Comics and competition
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/22/comics-and-competition/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: What DO they teach in school these days?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/27/what-do-they-teach-in-school-these-days/
 tags:
   - random

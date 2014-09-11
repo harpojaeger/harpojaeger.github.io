@@ -2,6 +2,7 @@
 title: 'Done&#8230;for now&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/28/donefor-now/
 tags:
   - school

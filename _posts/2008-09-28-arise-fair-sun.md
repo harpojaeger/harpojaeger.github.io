@@ -2,6 +2,7 @@
 title: Arise, fair sun
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/28/arise-fair-sun/
 tags:
   - school

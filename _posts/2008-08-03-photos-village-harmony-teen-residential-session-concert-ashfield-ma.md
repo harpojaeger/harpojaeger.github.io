@@ -2,6 +2,7 @@
 title: 'Photos: Village Harmony Teen Residential Session Concert, Ashfield MA'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/03/photos-village-harmony-teen-residential-session-concert-ashfield-ma/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Exquisite Corpse adjustment
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/07/exquisite-corpse-adjustment/
 tags:
   - site

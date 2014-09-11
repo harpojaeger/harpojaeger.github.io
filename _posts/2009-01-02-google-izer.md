@@ -2,6 +2,7 @@
 title: Google-izer
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/02/google-izer/
 tags:
   - tech

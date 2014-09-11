@@ -2,6 +2,7 @@
 title: As promised
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/04/13/as-promised/
 tags:
   - culture

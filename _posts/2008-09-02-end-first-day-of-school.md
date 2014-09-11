@@ -2,6 +2,7 @@
 title: End first day of school
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/02/end-first-day-of-school/
 aktt_notify_twitter:
   - yes

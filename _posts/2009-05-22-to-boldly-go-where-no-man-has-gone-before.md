@@ -2,6 +2,7 @@
 title: To boldly go where no man has gone before
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/22/to-boldly-go-where-no-man-has-gone-before/
 aktt_notify_twitter:
   - yes

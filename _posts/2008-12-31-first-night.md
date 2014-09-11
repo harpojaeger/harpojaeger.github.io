@@ -2,6 +2,7 @@
 title: First Night
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/31/first-night/
 tags:
   - friends

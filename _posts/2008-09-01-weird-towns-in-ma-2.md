@@ -2,6 +2,7 @@
 title: 'Weird towns in MA #2'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/01/weird-towns-in-ma-2/
 tags:
   - random

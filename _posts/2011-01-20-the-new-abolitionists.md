@@ -2,6 +2,7 @@
 title: The new abolitionists?
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/01/20/the-new-abolitionists/
 tags:
   - culture

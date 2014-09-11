@@ -2,6 +2,7 @@
 title: Much excitement
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/20/much-excitement/
 tags:
   - friends

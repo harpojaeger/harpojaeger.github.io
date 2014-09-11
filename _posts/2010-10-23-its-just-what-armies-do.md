@@ -2,6 +2,7 @@
 title: 'It&#8217;s just what armies do'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/10/23/its-just-what-armies-do/
 tags:
   - current events

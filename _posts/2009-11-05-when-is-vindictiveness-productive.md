@@ -2,6 +2,7 @@
 title: When is vindictiveness productive?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/05/when-is-vindictiveness-productive/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Counting down
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/29/counting-down/
 tags:
   - school

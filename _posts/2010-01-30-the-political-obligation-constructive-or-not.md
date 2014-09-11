@@ -2,6 +2,7 @@
 title: 'The political obligation: constructive or not?'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/01/30/the-political-obligation-constructive-or-not/
 tags:
   - culture

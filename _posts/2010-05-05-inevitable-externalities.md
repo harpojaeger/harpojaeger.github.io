@@ -2,6 +2,7 @@
 title: Inevitable externalities
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/05/05/inevitable-externalities/
 tags:
   - current events

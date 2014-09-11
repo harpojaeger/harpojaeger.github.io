@@ -2,6 +2,7 @@
 title: Pajama day
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/26/pajama-day/
 tags:
   - family

@@ -2,6 +2,7 @@
 title: Jump rope guru
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/jumprope-guru/
 aktt_notify_twitter:
   - yes

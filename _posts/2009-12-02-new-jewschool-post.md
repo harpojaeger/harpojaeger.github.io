@@ -2,6 +2,7 @@
 title: New Jewschool post!
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/12/02/new-jewschool-post/
 has_been_twittered:
   - yes

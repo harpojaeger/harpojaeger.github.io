@@ -2,6 +2,7 @@
 title: Milk and others
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/21/milk-and-others/
 tags:
   - film

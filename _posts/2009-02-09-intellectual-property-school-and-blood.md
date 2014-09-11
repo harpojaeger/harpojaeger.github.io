@@ -2,6 +2,7 @@
 title: Intellectual Property, school, and blood
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/09/intellectual-property-school-and-blood/
 aktt_notify_twitter:
   - yes

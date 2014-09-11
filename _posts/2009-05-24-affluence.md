@@ -2,6 +2,7 @@
 title: Affluence
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/24/affluence/
 aktt_notify_twitter:
   - yes

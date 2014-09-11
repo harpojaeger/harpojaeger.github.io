@@ -2,6 +2,7 @@
 title: Impending exhaustion
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/05/impending-exhaustion/
 tags:
   - current events

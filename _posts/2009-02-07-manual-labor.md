@@ -2,6 +2,7 @@
 title: Manual labor
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/07/manual-labor/
 aktt_notify_twitter:
   - yes

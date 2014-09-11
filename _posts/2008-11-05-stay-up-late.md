@@ -2,6 +2,7 @@
 title: Stay up late
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/05/stay-up-late/
 tags:
   - current events

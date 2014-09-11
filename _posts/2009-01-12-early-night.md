@@ -2,6 +2,7 @@
 title: Early night
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/12/early-night/
 tags:
   - travel

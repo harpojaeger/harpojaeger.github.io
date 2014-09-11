@@ -2,6 +2,7 @@
 title: Exquisite Corpse updates
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/04/exquisite-corpse-updates/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Observations
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/20/observations/
 aktt_notify_twitter:
   - yes

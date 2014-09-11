@@ -2,6 +2,7 @@
 title: Bibi+Barack
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/19/bibibarack/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: I again forget to post links
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/06/08/i-again-forget-to-post-links/
 tags:
   - current events

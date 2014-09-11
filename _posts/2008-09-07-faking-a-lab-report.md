@@ -2,6 +2,7 @@
 title: Faking a lab report?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/07/faking-a-lab-report/
 tags:
   - school

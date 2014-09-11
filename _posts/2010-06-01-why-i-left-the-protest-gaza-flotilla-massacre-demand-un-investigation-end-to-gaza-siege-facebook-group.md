@@ -2,6 +2,7 @@
 title: 'Why I left the &#8220;Protest Gaza Flotilla Massacre, Demand UN Investigation, End to Gaza Siege&#8221; Facebook group'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/06/01/why-i-left-the-protest-gaza-flotilla-massacre-demand-un-investigation-end-to-gaza-siege-facebook-group/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: A tiring day, and another ahead
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/06/a-tiring-day-and-another-ahead/
 tags:
   - school

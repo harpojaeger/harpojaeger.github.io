@@ -2,6 +2,7 @@
 title: That Was Halloween
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/31/that-was-halloween/
 tags:
   - school

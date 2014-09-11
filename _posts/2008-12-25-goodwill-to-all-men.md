@@ -2,6 +2,7 @@
 title: Goodwill to all men
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/25/goodwill-to-all-men/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: Journalistic macroethics
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/04/26/journalistic-macroethics/
 tags:
   - culture

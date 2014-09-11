@@ -2,6 +2,7 @@
 title: Impending schooling
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/30/impending-schooling/
 tags:
   - friends

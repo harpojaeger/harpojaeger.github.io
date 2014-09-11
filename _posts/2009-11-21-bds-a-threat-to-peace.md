@@ -2,6 +2,7 @@
 title: 'BDS: a threat to peace'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/21/bds-a-threat-to-peace/
 aktt_notify_twitter:
   - yes

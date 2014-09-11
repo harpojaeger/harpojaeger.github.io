@@ -2,6 +2,7 @@
 title: Providence
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/18/providence/
 tags:
   - current events

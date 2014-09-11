@@ -2,6 +2,7 @@
 title: 'New post at Jewschool: The relationship between a Jewish identity and a political identity'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/30/new-post-at-jewschool/
 aktt_notify_twitter:
   - yes

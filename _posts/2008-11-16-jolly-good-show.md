@@ -2,6 +2,7 @@
 title: Jolly good show
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/16/jolly-good-show/
 tags:
   - music

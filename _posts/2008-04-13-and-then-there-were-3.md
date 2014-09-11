@@ -2,6 +2,7 @@
 title: And then there were 3
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/04/13/and-then-there-were-3/
 aktt_notify_twitter:
   - yes

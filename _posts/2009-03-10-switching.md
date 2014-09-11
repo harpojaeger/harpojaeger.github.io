@@ -2,6 +2,7 @@
 title: Switching?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/10/switching/
 aktt_notify_twitter:
   - yes

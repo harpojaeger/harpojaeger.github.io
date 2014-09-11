@@ -2,6 +2,7 @@
 title: Cut the act, Obama
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/12/cut-the-act-obama/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Almost there
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/12/almost-there/
 tags:
   - school

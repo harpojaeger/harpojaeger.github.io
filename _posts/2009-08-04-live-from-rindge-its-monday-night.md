@@ -2,6 +2,7 @@
 title: 'Live from Rindge, it&#039;s Monday night'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/04/live-from-rindge-its-monday-night/
 aktt_notify_twitter:
   - yes

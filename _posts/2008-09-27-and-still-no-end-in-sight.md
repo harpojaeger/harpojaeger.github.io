@@ -2,6 +2,7 @@
 title: '&#8230;and still no end in sight'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/27/and-still-no-end-in-sight/
 tags:
   - school

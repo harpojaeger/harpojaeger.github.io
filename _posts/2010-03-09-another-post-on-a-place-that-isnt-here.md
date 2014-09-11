@@ -2,6 +2,7 @@
 title: 'Another post on a place that isn&#039;t here!'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/03/09/another-post-on-a-place-that-isnt-here/
 tags:
   - culture

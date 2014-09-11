@@ -2,6 +2,7 @@
 title: 'I may be done with my college app, but&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/27/i-may-be-done-with-my-college-app-but/
 tags:
   - school

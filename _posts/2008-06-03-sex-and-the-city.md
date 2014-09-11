@@ -2,6 +2,7 @@
 title: Sex and the City
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/06/03/sex-and-the-city/
 aktt_notify_twitter:
   - yes

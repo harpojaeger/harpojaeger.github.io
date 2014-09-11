@@ -2,6 +2,7 @@
 title: Final touches
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/03/final-touches/
 tags:
   - site

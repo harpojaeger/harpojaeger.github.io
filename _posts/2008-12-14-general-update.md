@@ -2,6 +2,7 @@
 title: General update
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/14/general-update/
 tags:
   - music

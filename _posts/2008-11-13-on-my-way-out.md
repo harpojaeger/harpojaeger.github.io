@@ -2,6 +2,7 @@
 title: On my way out
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/13/on-my-way-out/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: The signs are inescapable
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/10/the-signs-are-inescapable/
 aktt_notify_twitter:
   - yes

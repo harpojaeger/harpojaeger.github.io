@@ -2,6 +2,7 @@
 title: And back again
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/and-back-again/
 tags:
   - tech

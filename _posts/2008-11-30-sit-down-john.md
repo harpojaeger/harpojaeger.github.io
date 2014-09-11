@@ -2,6 +2,7 @@
 title: Sit down, John!
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/30/sit-down-john/
 tags:
   - family

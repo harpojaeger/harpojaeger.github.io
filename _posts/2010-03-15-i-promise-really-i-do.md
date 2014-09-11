@@ -2,6 +2,7 @@
 title: 'I promise, really I do&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/03/15/i-promise-really-i-do/
 tags:
   - New Voices

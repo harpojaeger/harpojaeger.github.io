@@ -2,6 +2,7 @@
 title: 'I feel obliged to mention&#8230;'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/04/10/i-feel-obliged-to-mention/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: New York, New York
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/19/new-york-new-york/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: False equivalencies
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/05/05/false-equivalencies/
 tags:
   - current events

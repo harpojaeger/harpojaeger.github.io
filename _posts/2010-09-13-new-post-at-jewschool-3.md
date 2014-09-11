@@ -2,6 +2,7 @@
 title: New post at Jewschool
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/09/13/new-post-at-jewschool-3/
 tags:
   - culture

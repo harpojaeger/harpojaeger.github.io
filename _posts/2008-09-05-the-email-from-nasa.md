@@ -2,6 +2,7 @@
 title: The email from NASA
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/05/the-email-from-nasa/
 tags:
   - random

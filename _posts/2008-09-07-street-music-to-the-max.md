@@ -2,6 +2,7 @@
 title: Street music to the max
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/07/street-music-to-the-max/
 tags:
   - school

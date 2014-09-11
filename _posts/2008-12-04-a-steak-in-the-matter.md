@@ -2,6 +2,7 @@
 title: A steak in the matter
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/04/a-steak-in-the-matter/
 tags:
   - family

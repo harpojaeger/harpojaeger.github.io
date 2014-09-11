@@ -2,6 +2,7 @@
 title: iPhone Pwnage
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/07/07/iphone-pwnage/
 tags:
   - random

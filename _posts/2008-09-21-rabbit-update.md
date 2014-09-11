@@ -2,6 +2,7 @@
 title: Rabbit update
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/rabbit-update/
 aktt_notify_twitter:
   - yes

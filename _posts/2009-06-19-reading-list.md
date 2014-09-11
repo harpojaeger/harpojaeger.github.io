@@ -2,6 +2,7 @@
 title: Reading list
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/06/19/reading-list/
 aktt_notify_twitter:
   - yes

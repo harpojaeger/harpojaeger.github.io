@@ -2,6 +2,7 @@
 title: Take me back
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/10/take-me-back/
 tags:
   - school

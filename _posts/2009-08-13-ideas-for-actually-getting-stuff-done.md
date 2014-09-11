@@ -2,6 +2,7 @@
 title: Ideas for actually getting stuff done
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/13/ideas-for-actually-getting-stuff-done/
 aktt_notify_twitter:
   - yes

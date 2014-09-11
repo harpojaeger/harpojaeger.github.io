@@ -2,6 +2,7 @@
 title: Brandeis and bed
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/13/brandeis-and-bed/
 tags:
   - school

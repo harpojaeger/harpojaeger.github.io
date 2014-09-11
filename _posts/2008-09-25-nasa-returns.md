@@ -2,6 +2,7 @@
 title: NASA returns
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/25/nasa-returns/
 tags:
   - random

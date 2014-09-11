@@ -2,6 +2,7 @@
 title: A brief reprieve
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/27/a-brief-reprieve/
 tags:
   - school

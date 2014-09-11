@@ -2,6 +2,7 @@
 title: Bienvenido a Oaxaca?
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/07/05/bienvenido-a-oaxaca/
 tags:
   - culture

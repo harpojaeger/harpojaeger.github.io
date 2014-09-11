@@ -2,6 +2,7 @@
 title: The Ultimate Trial
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/03/03/the-ultimate-trial/
 aktt_notify_twitter:
   - yes

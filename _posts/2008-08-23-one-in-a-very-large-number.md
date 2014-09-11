@@ -2,6 +2,7 @@
 title: One in a very large number
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/23/one-in-a-very-large-number/
 tags:
   - random

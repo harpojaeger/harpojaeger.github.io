@@ -2,6 +2,7 @@
 title: The early bird gets the train
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/19/the-early-bird-gets-the-train/
 aktt_notify_twitter:
   - yes

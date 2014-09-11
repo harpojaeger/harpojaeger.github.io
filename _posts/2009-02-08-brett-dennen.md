@@ -2,6 +2,7 @@
 title: Brett Dennen
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/08/brett-dennen/
 aktt_notify_twitter:
   - yes

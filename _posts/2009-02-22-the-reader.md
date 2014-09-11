@@ -2,6 +2,7 @@
 title: The Reader
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/22/the-reader/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Existence
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/19/existence/
 aktt_notify_twitter:
   - yes

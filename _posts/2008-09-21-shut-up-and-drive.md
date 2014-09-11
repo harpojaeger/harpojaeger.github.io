@@ -2,6 +2,7 @@
 title: Shut up and drive
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/shut-up-and-drive/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: This is just disgusting
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/11/04/this-is-just-disgusting/
 aktt_tweeted:
   - 1

@@ -2,6 +2,7 @@
 title: The obsolete conservative mentality
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/29/the-obsolete-conservative-mentality/
 aktt_notify_twitter:
   - yes

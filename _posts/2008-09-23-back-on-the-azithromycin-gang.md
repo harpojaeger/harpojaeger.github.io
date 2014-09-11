@@ -2,6 +2,7 @@
 title: Back on the azithromycin gang
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/23/back-on-the-azithromycin-gang/
 aktt_notify_twitter:
   - yes

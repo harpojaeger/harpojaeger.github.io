@@ -2,6 +2,7 @@
 title: 'Farmer&#039;s market'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/16/farmers-market/
 tags:
   - food

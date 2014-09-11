@@ -2,6 +2,7 @@
 title: Office chair?
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/16/office-chair/
 tags:
   - random

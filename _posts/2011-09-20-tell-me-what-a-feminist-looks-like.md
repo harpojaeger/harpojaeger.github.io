@@ -2,6 +2,7 @@
 title: Tell me what a feminist looks like
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/09/20/tell-me-what-a-feminist-looks-like/
 tags:
   - culture

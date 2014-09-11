@@ -2,6 +2,7 @@
 title: A new beginning
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/01/a-new-beginning/
 tags:
   - friends

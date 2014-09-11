@@ -2,6 +2,7 @@
 title: On the motivation of campus police
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/10/03/on-the-motivation-of-campus-police/
 aktt_notify_twitter:
   - yes

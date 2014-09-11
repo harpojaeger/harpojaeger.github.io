@@ -2,6 +2,7 @@
 title: Resources
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/04/12/resources/
 aktt_notify_twitter:
   - yes

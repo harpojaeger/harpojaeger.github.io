@@ -2,6 +2,7 @@
 title: NHC Summer Institute
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/10/nhc-summer-institute/
 aktt_notify_twitter:
   - yes

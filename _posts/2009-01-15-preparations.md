@@ -2,6 +2,7 @@
 title: Preparations
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/15/preparations/
 tags:
   - family

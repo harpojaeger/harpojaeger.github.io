@@ -2,6 +2,7 @@
 title: Breathe easy?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/01/breathe-easy/
 aktt_notify_twitter:
   - yes

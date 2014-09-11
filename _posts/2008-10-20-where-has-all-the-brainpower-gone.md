@@ -2,6 +2,7 @@
 title: Where has all the brainpower gone?
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/10/20/where-has-all-the-brainpower-gone/
 tags:
   - school

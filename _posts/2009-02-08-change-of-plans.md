@@ -2,6 +2,7 @@
 title: Change of plans
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/02/08/change-of-plans/
 aktt_notify_twitter:
   - yes

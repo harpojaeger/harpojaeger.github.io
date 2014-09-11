@@ -2,6 +2,7 @@
 title: Soldiers and terrorists
 author: Harpo
 layout: post
+comments: true
 permalink: /2011/10/19/soldiers-and-terrorists/
 tags:
   - current events

@@ -2,6 +2,7 @@
 title: Calvinball
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/06/calvinball/
 aktt_notify_twitter:
   - yes

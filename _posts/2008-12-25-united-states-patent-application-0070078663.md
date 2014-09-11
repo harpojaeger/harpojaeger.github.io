@@ -2,6 +2,7 @@
 title: 'United States Patent Application: 0070078663'
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/25/united-states-patent-application-0070078663/
 tags:
   - random

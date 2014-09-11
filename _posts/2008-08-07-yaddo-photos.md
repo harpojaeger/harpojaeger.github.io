@@ -2,6 +2,7 @@
 title: Yaddo Photos
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/08/07/yaddo-photos/
 aktt_notify_twitter:
   - yes

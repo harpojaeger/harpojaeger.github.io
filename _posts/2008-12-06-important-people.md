@@ -2,6 +2,7 @@
 title: Important people
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/12/06/important-people/
 tags:
   - current events

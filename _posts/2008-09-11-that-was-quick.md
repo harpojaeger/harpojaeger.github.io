@@ -2,6 +2,7 @@
 title: That was quick
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/11/that-was-quick/
 tags:
   - tech

@@ -2,6 +2,7 @@
 title: Sin Nombre
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/10/sin-nombre/
 aktt_notify_twitter:
   - yes

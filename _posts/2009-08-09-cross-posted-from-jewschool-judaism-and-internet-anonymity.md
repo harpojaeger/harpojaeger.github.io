@@ -2,6 +2,7 @@
 title: 'Cross-posted from Jewschool: Judaism and internet anonymity'
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/08/09/cross-posted-from-jewschool-judaism-and-internet-anonymity/
 aktt_notify_twitter:
   - yes

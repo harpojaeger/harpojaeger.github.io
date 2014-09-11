@@ -2,6 +2,7 @@
 title: Home, sweet home
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/21/home-sweet-home/
 aktt_notify_twitter:
   - yes

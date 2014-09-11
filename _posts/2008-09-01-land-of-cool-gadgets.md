@@ -2,6 +2,7 @@
 title: Land of cool gadgets
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/01/land-of-cool-gadgets/
 tags:
   - tech

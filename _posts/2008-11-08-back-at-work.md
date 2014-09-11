@@ -2,6 +2,7 @@
 title: Back at work
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/11/08/back-at-work/
 tags:
   - school

@@ -2,6 +2,7 @@
 title: St. Johnsbury
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/05/18/st-johnsbury/
 aktt_notify_twitter:
   - yes

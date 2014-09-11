@@ -2,6 +2,7 @@
 title: Anemones and barnacles
 author: Harpo
 layout: post
+comments: true
 permalink: /2009/01/16/anemones-and-barnacles/
 tags:
   - family

@@ -2,6 +2,7 @@
 title: Another big number
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/17/another-big-number/
 tags:
   - school

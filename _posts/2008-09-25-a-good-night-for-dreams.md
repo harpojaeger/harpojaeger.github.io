@@ -2,6 +2,7 @@
 title: A good night for dreams
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/09/25/a-good-night-for-dreams/
 aktt_notify_twitter:
   - yes

@@ -2,6 +2,7 @@
 title: Blog reorganization
 author: Harpo
 layout: post
+comments: true
 permalink: /2008/07/06/blog-reorganization/
 tags:
   - site

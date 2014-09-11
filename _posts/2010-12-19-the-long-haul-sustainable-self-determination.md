@@ -2,6 +2,7 @@
 title: 'The long haul: sustainable self-determination'
 author: Harpo
 layout: post
+comments: true
 permalink: /2010/12/19/the-long-haul-sustainable-self-determination/
 tags:
   - current events
