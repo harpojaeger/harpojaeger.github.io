@@ -16,12 +16,12 @@ This morning we woke up at about 10:30, and left the house at about 11:00, walki
 At the moment, there is a children&#8217;s storyteller with a PA and a banjo telling a story to a group of children and parents. I think the story concerns many animals in a pit, hiding from what they believe to be the end of the world.  
 There is a lot to see here, so I&#8217;m looking forward to having such a large block of time to see it.
 
-[<img src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-2ffdb576-833f-4651-bee5-77cc78ed80e3.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][1]
+[<img src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-2ffdb576-833f-4651-bee5-77cc78ed80e3.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][1]
 
-[<img src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-d7eaa188-e92e-4e77-a201-7a285bac3cbb.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][2]
+[<img src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-d7eaa188-e92e-4e77-a201-7a285bac3cbb.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][2]
 
-[<img src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-4d7d156c-94f1-447d-8f49-e2883bfae7dc.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][3]
+[<img src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-4d7d156c-94f1-447d-8f49-e2883bfae7dc.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][3]
 
- [1]: http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-2ffdb576-833f-4651-bee5-77cc78ed80e3.jpeg
- [2]: http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-d7eaa188-e92e-4e77-a201-7a285bac3cbb.jpeg
- [3]: http://harpojaeger.github.io/assets/media/wp-content/uploads/2008/09/l-640-480-4d7d156c-94f1-447d-8f49-e2883bfae7dc.jpeg
+ [1]: http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-2ffdb576-833f-4651-bee5-77cc78ed80e3.jpeg
+ [2]: http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-d7eaa188-e92e-4e77-a201-7a285bac3cbb.jpeg
+ [3]: http://www.harpojaeger.com/assets/media/wp-content/uploads/2008/09/l-640-480-4d7d156c-94f1-447d-8f49-e2883bfae7dc.jpeg

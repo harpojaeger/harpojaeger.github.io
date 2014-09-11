@@ -12,8 +12,8 @@ If you check out the [Exquisite Corpse page][1], you will notice some pretty fri
 
 If this doesn&#8217;t make any sense to you, that&#8217;s okay.  The upshot of it for an end user is that the page is way more user-friendly, has some sizzling-hot visual effects (yes, Mr. Spinning-Gear-Progress-Indicator, and Ms. Snazzy-Awesome-Slide-Up-and-Slide-Down-to-Respectively-Hide-and-Show-Content, I&#8217;m talking about you), tracks when a poem was *begun*, not just when it was ended, and is just generally slicker.  Enjoy!
 
-I&#8217;ve tested the page pretty thoroughly, and I don&#8217;t anticipate any problems.  However, if you do run across something, please let me know using the <a href="http://harpojaeger.github.io/contact/" target="_blank">contact form</a>.
+I&#8217;ve tested the page pretty thoroughly, and I don&#8217;t anticipate any problems.  However, if you do run across something, please let me know using the <a href="http://www.harpojaeger.com/contact/" target="_blank">contact form</a>.
 
 Keep up the good work!  This project has been pretty incredible, and I hope that people will continue to contribute to it.
 
- [1]: http://harpojaeger.github.io/projects/exquisite-corpse
+ [1]: http://www.harpojaeger.com/projects/exquisite-corpse

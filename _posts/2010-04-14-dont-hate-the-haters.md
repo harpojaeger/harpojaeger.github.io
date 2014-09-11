@@ -58,7 +58,7 @@ According to you.
 
 > No matter how disconnected a Jew may feel from the Jewish people or Jewish culture and religion, she should strive to retain some semblance of group identity and belonging.
 
-Hey Sam, ever wonder **why** Jewish anti-Zionists feel disconnected?  **It&#8217;s because of people like you**.  People who hold standards for what counts as an &#8220;acceptable&#8221; Jewish opinion.  People willing to marginalize, condescend, and ignore those who they disagree with (incidentally, the exact same tactics <a href="http://harpojaeger.github.io/2009/11/21/bds-a-threat-to-peace/" target="_blank">I decry when used by some anti-Zionists</a>).  Maybe if the Jewish community were willing to perceive a vigorous, respectful, and honest debate about the nature of Israel as something other than a threat to the community&#8217;s existence and identity, Jewish anti-Zionists would feel a bit more connected.
+Hey Sam, ever wonder **why** Jewish anti-Zionists feel disconnected?  **It&#8217;s because of people like you**.  People who hold standards for what counts as an &#8220;acceptable&#8221; Jewish opinion.  People willing to marginalize, condescend, and ignore those who they disagree with (incidentally, the exact same tactics <a href="http://www.harpojaeger.com/2009/11/21/bds-a-threat-to-peace/" target="_blank">I decry when used by some anti-Zionists</a>).  Maybe if the Jewish community were willing to perceive a vigorous, respectful, and honest debate about the nature of Israel as something other than a threat to the community&#8217;s existence and identity, Jewish anti-Zionists would feel a bit more connected.
 
 > Israel needs the Diaspora, and the Diaspora needs Israel.
 

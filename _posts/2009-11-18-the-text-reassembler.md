@@ -29,4 +29,4 @@ It repeats this until it encounters a word that has nothing following it (the la
 
 I came home determined to write a copy, and made a bit of progress.  It lay around for a while, I did some more work on it some point, but I never completed it.  I rediscovered it this evening and just manned up and made it work well enough to be publicly viewable.  When finished, it will accept input in a text field, or will be able to read input from a specified URL.  At the moment, though, it&#8217;s just dealing with block of text I hard-coded in (thus it&#8217;s not accepting any user input right now), and a word output limit imposed the same way.  Both the source of the text and the length are displayed on the page.
 
- [1]: http://harpojaeger.github.io/projects/text-reassembler
+ [1]: http://www.harpojaeger.com/projects/text-reassembler

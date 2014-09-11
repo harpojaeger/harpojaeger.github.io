@@ -14,7 +14,7 @@ Here are some photos of the process.
 <div id='gallery-2' class='gallery galleryid-538 gallery-columns-5 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0395.jpg'><img width="1" height="1" src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0395.jpg" class="attachment-thumbnail" alt="The tin with fixture and bulb installed." /></a>
+      <a href='http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0395.jpg'><img width="1" height="1" src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0395.jpg" class="attachment-thumbnail" alt="The tin with fixture and bulb installed." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -24,7 +24,7 @@ Here are some photos of the process.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0396.jpg'><img width="1" height="1" src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0396.jpg" class="attachment-thumbnail" alt="The tin with fixture and bulb installed." /></a>
+      <a href='http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0396.jpg'><img width="1" height="1" src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0396.jpg" class="attachment-thumbnail" alt="The tin with fixture and bulb installed." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -34,7 +34,7 @@ Here are some photos of the process.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0397.jpg'><img width="1" height="1" src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0397.jpg" class="attachment-thumbnail" alt="The original non-grounded power cable." /></a>
+      <a href='http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0397.jpg'><img width="1" height="1" src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0397.jpg" class="attachment-thumbnail" alt="The original non-grounded power cable." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -44,7 +44,7 @@ Here are some photos of the process.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0398.jpg'><img width="1" height="1" src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0398.jpg" class="attachment-thumbnail" alt="The original non-grounded power cable." /></a>
+      <a href='http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0398.jpg'><img width="1" height="1" src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0398.jpg" class="attachment-thumbnail" alt="The original non-grounded power cable." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>
@@ -54,7 +54,7 @@ Here are some photos of the process.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0402.jpg'><img width="1" height="1" src="http://harpojaeger.github.io/assets/media/wp-content/uploads/2009/01/img_0402.jpg" class="attachment-thumbnail" alt="The final product, without the lid on, with the red grounding wire and the newly installed black power cable." /></a>
+      <a href='http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0402.jpg'><img width="1" height="1" src="http://www.harpojaeger.com/assets/media/wp-content/uploads/2009/01/img_0402.jpg" class="attachment-thumbnail" alt="The final product, without the lid on, with the red grounding wire and the newly installed black power cable." /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption'>

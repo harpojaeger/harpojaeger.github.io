@@ -21,4 +21,4 @@ The smallest set of glasses currently operation has perhaps two surviving member
 
 I wonder if there is some sort of coalition or alliance of international glassware-makers.
 
- [1]: http://harpojaeger.github.io/2009/02/02/silverware/
+ [1]: http://www.harpojaeger.com/2009/02/02/silverware/

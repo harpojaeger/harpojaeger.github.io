@@ -12,7 +12,7 @@ tags:
   - religion
   - travel
 ---
-Hi everyone.  My name is Harpo Jaeger.  I&#8217;m a new poster on Jewschool.  I&#8217;ve been blogging for a little over a year now at my personal website, <a href="http://harpojaeger.github.io" target="_blank">harpojaeger.com</a>.  I&#8217;m really excited to start blogging here!  Some of the other Jewschoolers I know from the <a href="http://havurah.org" target="_blank">NHC</a> <a href="http://havurah.org/institute" target="_blank">Summer Institute</a>, some I don&#8217;t know at all.
+Hi everyone.  My name is Harpo Jaeger.  I&#8217;m a new poster on Jewschool.  I&#8217;ve been blogging for a little over a year now at my personal website, <a href="http://www.harpojaeger.com" target="_blank">harpojaeger.com</a>.  I&#8217;m really excited to start blogging here!  Some of the other Jewschoolers I know from the <a href="http://havurah.org" target="_blank">NHC</a> <a href="http://havurah.org/institute" target="_blank">Summer Institute</a>, some I don&#8217;t know at all.
 
 At some point in the future I&#8217;ll be updating my biographical information, but right now I am here with the intention of posting about something very specific.
 
