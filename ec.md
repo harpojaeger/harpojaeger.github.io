@@ -7,19 +7,18 @@ permalink: /projects/exquisite-corpse/
 <link rel="stylesheet" href="/assets/css/ec.css">
 <script language="javascript" type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script language="javascript" type="text/javascript" src="/assets/scripts/ec.js"></script>
-<span id="already_poems">Write the <span id="numlines"></span> (or last) line of this poem (<a href="javascript:;" id="skiplink">or get a different one</a>)<br/>
-<span id="promptline">loading...</span><br/><form id="editform" action="javascript:;"><input type="text" name="submission" id="submission" class="text"/><button type="button" class="button" id="add">add</button><button type="button" class="button" id="end">end</button><img src="/assets/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" id="editloader" width="" height="" class="loader"/><input type="hidden" name="id" id="hidden_prompt_id"/></form>
-or </span>start a new poem<form id="createform" action="javascript:;"><input type="text" name="newsubmission" id="newsubmission" class="text"/><button type="button" class="button" id="start">start</button><img src="/assets/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" width="" height="" class="loader" id="createloader"/></form>
+<span id="already_poems">Write the <span id="numlines"></span> line of this poem (<a href="javascript:;" id="skiplink">or get a different one</a>)<br/>
+<span id="promptline">loading...</span><br/><form id="editform" action="javascript:;"><input type="text" name="submission" id="submission" class="text"/>&nbsp;<button type="button" class="button" id="add">add line</button>&nbsp;<button type="button" class="button" id="end">end poem</button><img src="/assets/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" id="editloader" width="" height="" class="loader"/><input type="hidden" name="id" id="hidden_prompt_id"/></form>
+or </span>start a new poem<form id="createform" action="javascript:;"><input type="text" name="newsubmission" id="newsubmission" class="text"/>&nbsp;<button type="button" class="button" id="start">start</button><img src="/assets/media/jekyll/ec/ajax-loader.gif" alt="ajax-loader" width="" height="" class="loader" id="createloader"/></form>
 Currently there <span id="are_is">are</span> <span id="num_open_poems"></span> open poem<span id="s">s</span> and <span id="num_completed_poems"></span> completed poems.
 </div>
-###What is this?####
-This is an electronic version of the [Surrealist parlor game Exquisite Corpse](http://en.wikipedia.org/wiki/Exquisite_corpse), in which players write a communal poem by each contributing one line, having seen only the one that comes directly before.  [Jon Rendell](http://jonrendell.com/) has some [more interesting information about the origins of the game](http://www.exquisitecorpse.com/definition/about.html).
 
-###How do I use it?###
+###What is this?###
+Anonymous poetry, written one line at a time.  No one sees the whole poem until it's [done](#completed_poems_header).
 
-See the **bold** text?  That's the most recent line of one of the currently in-progress poems.  Write whatever you think should come next in the first box (be creative!) and click "add."  If you think your line should be the last, click "end" instead (or leave the box blank to make the displayed line the last).  The second box lets you start a brand new poem.
+Exquisite Corpse began as a [Surrealist parlor game](http://en.wikipedia.org/wiki/Exquisite_corpse) in the early 20th century.  I created this Internet version in 2009.
 
-###Completed poems (most recent at the top)###
+###<span id="completed_poems_header">Completed poems (most recent at the top)</span>###
 
 Jump to poem #<span id="poem_navigation"></span>
 <span id="completed_poems"></span>
