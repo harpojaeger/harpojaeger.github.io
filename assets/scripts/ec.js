@@ -98,7 +98,7 @@ return n + (sfx[(val-20)%10] || sfx[val] || sfx[0]);
 function build_navigation(){
 $.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/completed_poems_counter.php",function(n){
 html="";
-interval=25;
+var interval=25;
 while(n/10!=Math.round(n/interval))
 n--;
 for(n;n>0;n=n-interval){
