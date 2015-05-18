@@ -27,4 +27,4 @@ Jump to poem #<span id="poem_navigation"></span>
 
 Everything submitted here is available to the public according to the [GNU GPL](http://www.gnu.org/licenses/gpl-3.0.txt).  If you don't have the right to distribute something or you don't want it made publicly available, don't submit it.
 
-Since anyone can contribute to this page, I'm not responsible for its content.  I try to remove things that I think are blatantly inappropriate, but I offer no guarantees on what I will or won't take down.  However, if you see something that you believe is spam or copyright-protected, please let me know using the contact form.
+Since anyone can contribute to this page, I'm not responsible for its content.  I try to remove things that I think are blatantly inappropriate, but I offer no guarantees on what I will or won't take down.  However, if you see something that you believe is spam or copyright-protected, please [let me know](http://twitter.com/harpojaeger).
