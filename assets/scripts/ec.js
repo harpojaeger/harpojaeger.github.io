@@ -99,7 +99,7 @@ function build_navigation(){
 $.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/completed_poems_counter.php",function(n){
 html="";
 var interval=25;
-while(n/10!=Math.round(n/interval))
+while(n/interval!=Math.round(n/interval))
 n--;
 for(n;n>0;n=n-interval){
 html+='<a href="#'+n+'">'+n+"<a/> ";
