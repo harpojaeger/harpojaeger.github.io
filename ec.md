@@ -21,6 +21,7 @@ Exquisite Corpse began as a [Surrealist parlor game](http://en.wikipedia.org/wik
 ###<span id="completed_poems_header">Completed poems (most recent at the top)</span>###
 
 Jump to poem #<span id="poem_navigation"></span>
+
 <span id="completed_poems"></span>
 
 ###Fine print###
