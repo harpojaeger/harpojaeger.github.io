@@ -80,28 +80,17 @@ function refresh_prompt(){
 		$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/numlines.php?id="+random_id,function(numlines){
 		$("#numlines").text(ord(numlines));
 		console.log("Loaded poem "+random_id+" with "+numlines+ " lines");
-		//if(numlines<9){
-		//	$("#end").fadeOut("fast");
-		//	console.log("end button should now disappear");
-		//}
-		//else
-		//{
-			//generate random # btw. 10 & 30
-			var randNum = 10+20*Math.random()
-			console.log("Random # is "+randNum);
-			if(randNum<numlines){
+		var randNum = 9+21*Math.random()
+		console.log("Random # is "+randNum);
+		if(randNum<numlines){
+			$("#end").fadeIn("fast");
 			console.log("showing end button");
-			}else{
+		}
+		else
+		{
+			$("#end").fadeOut("fast");
 			console.log("hiding end button");
-			}
-			
-			
-			//$("#end").fadeIn("fast");
-			//console.log("end button should now be visible");
-		//}
- 		 });
-
-	//alert($("#hidden_prompt_id").attr("value"));
+		}
 
 	});
 }
