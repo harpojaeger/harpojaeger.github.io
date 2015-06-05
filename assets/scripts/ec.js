@@ -16,7 +16,6 @@ $("#add").click(function(){
 
 });
 $("#end").click(function(){
-
 	$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/update_poem.php?action=end&"+$("#editform").serialize());
 	$("#submission").attr("value","");
 	$("#editloader").fadeIn("fast");
@@ -70,15 +69,17 @@ $.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/o
 function refresh_prompt(){
 
 	$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/return_random_id.php",function(random_id){
-		//alert(random_id);
+		
 		$("#promptline").fadeOut("fast");
 		$("#promptline").load("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/prompt_retrieve.php?id="+random_id);
+		
 		$("#promptline").fadeIn("fast");
 //		$("#submission").attr("value","");
 		$("#hidden_prompt_id").attr("value",random_id);
 		//set the nth line counter
 		$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/numlines.php?id="+random_id,function(numlines){
 			$("#numlines").text(ord(numlines));
+		console.log("Loaded poem #"+random_id+" with "+numlines+ "lines");
  		 });
 
 	//alert($("#hidden_prompt_id").attr("value"));
