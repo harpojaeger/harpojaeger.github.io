@@ -69,29 +69,29 @@ $.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/o
 function refresh_prompt(){
 
 	$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/return_random_id.php",function(random_id){
-		
-		$("#promptline").fadeOut("fast");
+		$("#promptline").fadeOut("fast");	
 		$("#promptline").load("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/prompt_retrieve.php?id="+random_id);
-		
 		$("#promptline").fadeIn("fast");
 //		$("#submission").attr("value","");
 		$("#hidden_prompt_id").attr("value",random_id);
 		//set the nth line counter
 		$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/numlines.php?id="+random_id,function(numlines){
-		$("#numlines").text(ord(numlines));
-		console.log("Loaded poem "+random_id+" with "+numlines+ " lines");
-		var randNum = 9+21*Math.random()
-		console.log("Random # is "+randNum);
-		if(randNum<numlines){
-			$("#end").fadeIn("fast");
-			console.log("showing end button");
-		}
-		else
-		{
-			$("#end").fadeOut("fast");
-			console.log("hiding end button");
-		}
-
+			$("#numlines").text(ord(numlines));
+		
+			console.log("Loaded poem "+random_id+" with "+numlines+ " lines");
+			var randNum = 9+21*Math.random()
+			console.log("Random # is "+randNum);
+		
+			if(randNum<numlines){
+				$("#end").fadeIn("fast");
+				console.log("showing end button");
+			}
+			else
+			{
+				$("#end").fadeOut("fast");
+				console.log("hiding end button");
+			}
+		});
 	});
 }
 
