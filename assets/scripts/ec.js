@@ -81,10 +81,12 @@ function refresh_prompt(){
 			$("#numlines").text(ord(numlines));
 		console.log("Loaded poem "+random_id+" with "+numlines+ " lines");
 		if(numlines<9){
+			$("#end").fadeOut("fast");
 			console.log("end button should now disappear");
 		}
 		else
 		{
+			$("#end").fadeIn("fast");
 			console.log("end button should now be visible");
 		}
  		 });
