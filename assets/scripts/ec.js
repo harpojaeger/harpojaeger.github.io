@@ -90,9 +90,9 @@ function refresh_prompt(){
 			var randNum = 2+2*Math.random()
 			console.log("Random # is "+randNum);
 			if(randNum<numlines){
-			console.log("end button should now be visible");
+			console.log("showing end button");
 			}else{
-			console.log("end button should now be hidden");
+			console.log("hiding end button");
 			}
 			
 			
