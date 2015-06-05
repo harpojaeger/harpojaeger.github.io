@@ -80,7 +80,7 @@ function refresh_prompt(){
 		$.get("http://ec2-54-164-53-69.compute-1.amazonaws.com/exquisite_corpse_assets/numlines.php?id="+random_id,function(numlines){
 			$("#numlines").text(ord(numlines));
 		console.log("Loaded poem "+random_id+" with "+numlines+ " lines");
-		if(numlines<9){
+		if(numlines<3){
 			$("#end").fadeOut("fast");
 			console.log("end button should now disappear");
 		}
