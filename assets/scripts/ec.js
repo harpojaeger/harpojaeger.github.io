@@ -87,7 +87,7 @@ function refresh_prompt(){
 		//else
 		//{
 			//generate random # btw. 10 & 30
-			var randNum = 2+2*Math.random()
+			var randNum = 10+20*Math.random()
 			console.log("Random # is "+randNum);
 			if(randNum<numlines){
 			console.log("showing end button");
