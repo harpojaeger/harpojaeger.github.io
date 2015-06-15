@@ -14,7 +14,7 @@ tags:
   - Mary Clare Higgins
   - northampton
 ---
-As promised, here are the two handouts that Mayor Higgins provided at the <a title="Tonight’s forum on the Northampton budget" href="http://www.harpojaeger.com/2011/04/01/tonights-forum-on-the-northampton-budget/" target="_blank">Northampton city budget forum last Thursday</a>.  Both are PDFs.
+As promised, here are the two handouts that Mayor Higgins provided at the <a title="Tonights forum on the Northampton budget" href="http://www.harpojaeger.com/2011/04/01/tonights-forum-on-the-northampton-budget/" target="_blank">Northampton city budget forum last Thursday</a>. Both are PDFs.
 
 [City of Northampton State Aid and benefit Costs][1]
 

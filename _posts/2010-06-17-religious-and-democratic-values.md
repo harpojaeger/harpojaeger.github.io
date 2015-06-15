@@ -16,4 +16,4 @@ tags:
   - religion
   - secularism
 ---
-Just a teaser for my <a href="http://jewschool.com/2010/06/17/23197/haredim-and-israel-compatible/" target="_blank">most recent Jewschool post</a>.  One of these days I promise I&#8217;ll write something here.
+Just a teaser for my <a href="http://jewschool.com/2010/06/17/23197/haredim-and-israel-compatible/" target="_blank">most recent Jewschool post</a>. One of these days I promise I&#8217;ll write something here.

@@ -13,8 +13,8 @@ tags:
   - frisbee
   - school
 ---
-WE PLAYED A REAL GAME!  ON A REAL FIELD!  WITH GRASS!
+WE PLAYED A REAL GAME! ON A REAL FIELD! WITH GRASS!
 
-It was awesome.  I have not played a legitimate game since August.  I am SO out of shape, and SO looking forward to this season.
+It was awesome. I have not played a legitimate game since August. I am SO out of shape, and SO looking forward to this season.
 
-My father is taking tomorrow off of school, so I am going in late.  Sleeping until nine.  WAHOO!
+My father is taking tomorrow off of school, so I am going in late. Sleeping until nine. WAHOO!

@@ -18,7 +18,7 @@ Here it is:
 > 
 > http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/960908.html.
 > 
-> Your interest in NASA and America’s space program is appreciated.
+> Your interest in NASA and America's space program is appreciated.
 > 
 > Sincerely,
 > 
@@ -28,4 +28,4 @@ Here it is:
 > 
 > Office of Public Affairs
 
-Needless to say, I will be following up on this and submitting my &#8220;theory&#8221;.  Further updates will follow.
+Needless to say, I will be following up on this and submitting my &#8220;theory&#8221;.  Further updates will follow.

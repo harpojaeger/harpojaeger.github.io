@@ -14,4 +14,4 @@ tags:
   - im tirtzu
   - new israel fund
 ---
-<a href="http://jewschool.com/2010/02/02/20438/how-is-this-smear-campaign-different-from-all-other-smear-campaigns/" target="_blank">Here&#8217;s my Jewschool post</a> about it.  Links to informational and opinion sources are included.
+<a href="http://jewschool.com/2010/02/02/20438/how-is-this-smear-campaign-different-from-all-other-smear-campaigns/" target="_blank">Here&#8217;s my Jewschool post</a> about it. Links to informational and opinion sources are included.

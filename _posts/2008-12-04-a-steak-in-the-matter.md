@@ -8,4 +8,4 @@ tags:
   - family
   - food
 ---
-I made steak tonight for the first time ever. I have eaten many times before, but never made it. It turned out rather well. I made a dinner of roasted russet and sweet potatoes, and sauteéd the steak with onions. My father assembled a salad at the last minute, as I realized I had neglected to do so.
+I made steak tonight for the first time ever. I have eaten many times before, but never made it. It turned out rather well. I made a dinner of roasted russet and sweet potatoes, and sauted the steak with onions. My father assembled a salad at the last minute, as I realized I had neglected to do so.

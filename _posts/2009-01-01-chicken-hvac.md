@@ -8,7 +8,7 @@ tags:
   - family
   - tech
 ---
-This evening I built a water heater for our chickens to keep their water from freezing.  It is a cookie tin with an incandescent lightbulb inside; the bulb provides a fair amount of heat.  It was a rather straightforward process, except that the bulb socket I was using wasn&#8217;t grounded, and I didn&#8217;t like the idea of an ungrounded device near water, so I had to replace the cable with a grounded one, and run a ground wire to the cookie tin.  This took some time, but I&#8217;m proud of the end product.
+This evening I built a water heater for our chickens to keep their water from freezing. It is a cookie tin with an incandescent lightbulb inside; the bulb provides a fair amount of heat. It was a rather straightforward process, except that the bulb socket I was using wasn&#8217;t grounded, and I didn&#8217;t like the idea of an ungrounded device near water, so I had to replace the cable with a grounded one, and run a ground wire to the cookie tin. This took some time, but I&#8217;m proud of the end product.
 
 Here are some photos of the process.
 

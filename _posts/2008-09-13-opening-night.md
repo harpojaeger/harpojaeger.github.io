@@ -8,4 +8,4 @@ tags:
   - random
   - school
 ---
-&#8230;went very well.  I am very excited for tonight&#8217;s show, which I think will be even better.  I have worked out a few kinks tech-wise from last night&#8217;s show, and everything should run much more smoothly tonight.
+&#8230;went very well. I am very excited for tonight&#8217;s show, which I think will be even better. I have worked out a few kinks tech-wise from last night&#8217;s show, and everything should run much more smoothly tonight.

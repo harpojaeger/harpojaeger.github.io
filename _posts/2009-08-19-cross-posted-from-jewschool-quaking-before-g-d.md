@@ -15,8 +15,8 @@ tags:
 > *You may not be looking for the promised land, but you might find it anyway / Under one of those old familiar names / Like New Orleans, Detroit City, Dallas, Pittsburg P.A., New York City, Kansas City, Atlanta, Chicago, and L.A.*  
 > -James Brown, <span style="text-decoration: underline;"> Living in America</span>
 > 
-> *&#8220;We have to be all those difficult things like cheerful and kind and curious and patient, and we’ve got to study and think and work hard, all of us, in all our different worlds, and then we’ll build…&#8221;  
-> &#8220;And then what?&#8221; said her Dæmon sleepily &#8220;build what?&#8221;  
+> *&#8220;We have to be all those difficult things like cheerful and kind and curious and patient, and weve got to study and think and work hard, all of us, in all our different worlds, and then well build&#8221;  
+> &#8220;And then what?&#8221; said her Dmon sleepily &#8220;build what?&#8221;  
 > &#8220;The Republic of Heaven.&#8221;*   
 > -Phillip Pullman, <span style="text-decoration: underline;">The Amber Spyglass</span>
 

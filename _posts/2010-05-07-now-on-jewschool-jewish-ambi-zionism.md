@@ -14,4 +14,4 @@ tags:
   - Israel
   - Palestine
 ---
-Haven&#8217;t heard of ambi-Zionism?  You&#8217;re not alone.  I just came up with it (I think).  Here&#8217;s <a href="http://jewschool.com/2010/05/07/22648/a-new-phrase-for-the-rest-of-us/" target="_blank">my Jewschool post</a> explaining.
+Haven&#8217;t heard of ambi-Zionism? You&#8217;re not alone. I just came up with it (I think). Here&#8217;s <a href="http://jewschool.com/2010/05/07/22648/a-new-phrase-for-the-rest-of-us/" target="_blank">my Jewschool post</a> explaining.

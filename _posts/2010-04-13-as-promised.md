@@ -11,4 +11,4 @@ tags:
 tags:
   - Holocaust
 ---
-A <a href="http://blog.newvoices.org/?p=3196" target="_blank">new post on New Voices</a> too, for your enjoyment.  Maybe someday I&#8217;ll even write one here.  Who knows?
+A <a href="http://blog.newvoices.org/?p=3196" target="_blank">new post on New Voices</a> too, for your enjoyment. Maybe someday I&#8217;ll even write one here. Who knows?

@@ -18,4 +18,4 @@ tags:
   - Hadar Susskind
   - J Street
 ---
-Since t<a href="http://www.nytimes.com/2010/03/22/health/policy/22health.html?ref=health" target="_blank">here&#8217;s not really anything to talk about</a>, I&#8217;ll just link you to <a href="http://jewschool.com/2010/03/22/21898/showdown-at-aipac/" target="_blank">this post I wrote for Jewschoo</a>l.  Wouldn&#8217;t you know it, Alan Dershowitz is back again!
+Since t<a href="http://www.nytimes.com/2010/03/22/health/policy/22health.html?ref=health" target="_blank">here&#8217;s not really anything to talk about</a>, I&#8217;ll just link you to <a href="http://jewschool.com/2010/03/22/21898/showdown-at-aipac/" target="_blank">this post I wrote for Jewschoo</a>l. Wouldn&#8217;t you know it, Alan Dershowitz is back again!

@@ -8,4 +8,4 @@ tags:
   - family
   - food
 ---
-My sister is out of the house for the evening!  Bring on the turkey kielbasa!
+My sister is out of the house for the evening! Bring on the turkey kielbasa!

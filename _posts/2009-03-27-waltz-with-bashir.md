@@ -11,4 +11,4 @@ aktt_tweeted:
 tags:
   - film
 ---
-We are going to see <a href="http://waltzwithbashir.com/" target="_blank">Waltz With Bashir</a> tonight!  I am so excited!  I have been waiting to see it for a while.
+We are going to see <a href="http://waltzwithbashir.com/" target="_blank">Waltz With Bashir</a> tonight! I am so excited! I have been waiting to see it for a while.

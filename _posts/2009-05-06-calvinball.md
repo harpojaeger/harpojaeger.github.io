@@ -14,6 +14,6 @@ tags:
   - random
   - school
 ---
-We lost to Four Rivers, but that is okay.  Especially because a friend and I have organized a game of <a href="http://en.wikipedia.org/wiki/Calvinball#Calvinball" target="_blank">Calvinball</a> tomorrow during lunch.  It is going to be awesome.  We have flags, bags, hobby horses, masks, a croquet set, and I am bringing all sorts of other things.
+We lost to Four Rivers, but that is okay. Especially because a friend and I have organized a game of <a href="http://en.wikipedia.org/wiki/Calvinball#Calvinball" target="_blank">Calvinball</a>tomorrow during lunch. It is going to be awesome. We have flags, bags, hobby horses, masks, a croquet set, and I am bringing all sorts of other things.
 
-This weekend is the Greenfield ultimate tournament.  We are in the A division again!
+This weekend is the Greenfield ultimate tournament. We are in the A division again!

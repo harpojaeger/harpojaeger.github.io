@@ -8,7 +8,7 @@ tags:
   - random
   - tech
 ---
-The link NASA sent me that would supposedly allow me to submit my &#8220;theory&#8221; did not work.  Here&#8217;s the email I sent them:
+The link NASA sent me that would supposedly allow me to submit my &#8220;theory&#8221; did not work. Here&#8217;s the email I sent them:
 
 > Thank you for your prompt response. The link to information on theory  
 > submission was very informative. Unfortunately, the first link did  

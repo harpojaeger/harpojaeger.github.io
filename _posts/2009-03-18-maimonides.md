@@ -11,4 +11,4 @@ aktt_tweeted:
 tags:
   - mock trial
 ---
-has beaten Newton South in their quarterfinals trial.  We will be playing them on Monday in the semifinals.
+has beaten Newton South in their quarterfinals trial. We will be playing them on Monday in the semifinals.

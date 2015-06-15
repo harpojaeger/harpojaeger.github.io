@@ -1,17 +1,19 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+gems:             [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Harpo Jaeger
-tagline:          'Senior Leftwing Jewish Malcontent'
+tagline:          ''
 description:      'I write about politics, organizing and two-stroke engines.'
 url:              http://harpojaeger.com
 baseurl:          '/'
 paginate:         10
+paginate_path:    "/posts/page:num"
 
 author:
   name:           'Harpo Jaeger'
@@ -22,3 +24,4 @@ author:
 
 # github:
 #  repo:           https://github.com/poole/lanyon
+encoding:           utf-8
