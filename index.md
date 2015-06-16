@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harpo Jaeger
+title: About
 ---
 <div style="float:right;width:42%;"><img alt="Harpo at Denver PrideFest 2014, canvassing for NARAL Pro-Choice Colorado" src="/assets/media/jekyll/images/2014-08-21/me.jpg" /></div>
 I majored in Education History & Policy at Brown University and did a self-designed study in Politics & Community Organizing.  While at Brown, I co-founded a [J Street U](http://jstreetu.org) chapter and an anti-sexual violence task force.  I've worked on campaigns in Providence, Western Massachusetts, Boston, Denver and Washington, DC.
