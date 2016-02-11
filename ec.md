@@ -13,18 +13,19 @@ or </span>start a new poem<form id="createform" action="javascript:;"><input typ
 Currently there <span id="are_is">are</span> <span id="num_open_poems"></span> open poem<span id="s">s</span> and <span id="num_completed_poems"></span> completed poems.
 </div>
 
-###What is this?###
-Anonymous poetry, written one line at a time.  No one sees the whole poem until it's [done](#completed_poems_header).
+###What is this?
 
-Exquisite Corpse began as a [Surrealist parlor game](http://en.wikipedia.org/wiki/Exquisite_corpse) in the early 20th century.  I created this Internet version in 2009.
+Anonymous poetry, written one line at a time.  No one sees the whole poem until it's [done](#completed).
 
-###<span id="completed_poems_header">Completed poems (most recent at the top)</span>###
+Exquisite Corpse began as a [Surrealist parlor game](http://en.wikipedia.org/wiki/Exquisite_corpse) in the early 20th century.  I created this Internet version in 2009.  Read the [fine print](#fineprint).
+
+###Completed poems (most recent at the top) {#completed}
 
 Jump to poem #<span id="poem_navigation"></span>
 
 <span id="completed_poems"></span>
 
-###Fine print###
+###Fine print {#fineprint}
 
 Everything submitted here is available to the public according to the [GNU GPL](http://www.gnu.org/licenses/gpl-3.0.txt).  If you don't have the right to distribute something or you don't want it made publicly available, don't submit it.
 
