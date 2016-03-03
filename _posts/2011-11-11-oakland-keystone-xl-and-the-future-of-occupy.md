@@ -34,16 +34,14 @@ Well, yes. But &#8220;politics&#8221; doesn&#8217;t just mean lobbyists and comm
 <a href="http://www.tarsandsaction.org/big-news-won-won/" target="_blank">For example</a>:
 
 > **&#8230;a few minutes ago the president sent the pipeline back to the State Department for a thorough re-review, which most analysts are saying will effectively kill the project.**The president explicitly noted climate change, along with the pipeline route, as one of the factors that a new review would need to assess. Theres no way, with an honest review, that a pipeline that helps speed the tapping of the worlds second-largest pool of carbon can pass environmental muster.
-> 
+>
 > And he has made clear that the environmental assessment wont be carried out by cronies of the pipeline companythat it will be an expert and independent assessment.
 
 That was veteran environmental activist Bill McKibben on the Keystone XL pipeline, which, thanks to an ongoing campaign including over one thousand arrests and culminating in a giant protest at the White House last weekend, looks decreasingly likely to be approved. This is one of the environmental movement&#8217;s biggest victories in an uncomfortably long time. It came about because a) there are a lot of people who care enough about the issues to go to DC and protest in person, and b) because a few people took charge and coordinated a highly visible event, paying serious attention to strategy and media outreach.
 
 What can #Occupy learn from this? That it&#8217;s not enough to have passionate people on your side. If it were, we&#8217;d never have gone to war in Iraq. We&#8217;d never have passed the PATRIOT act. We&#8217;d never have <a href="http://www.nytimes.com/2011/10/01/world/middleeast/anwar-al-awlaki-is-killed-in-yemen.html?pagewanted=all" target="_blank">assassinated an American citizen on foreign soil without anything even resembling due process</a>. And we wouldn&#8217;t continue <a href="http://www.salon.com/2011/11/05/the_drone_mentality/singleton/" target="_blank">using unmanned drones to carry out indiscriminate attacks on uncertain targets</a>.
 
-<div style="float:right;">
-  <a title="Occupy Providence donation receiving tent | photo by me" href="http://www.flickr.com/photos/renaissanceboy/6264320286/"><img src="http://farm7.static.flickr.com/6110/6264320286_0cbcec6b5a_m.jpg" alt="Donation receiving tent" width="240" height="180" /></a>
-</div>
+<img src="https://farm7.staticflickr.com/6110/6264320286_35b30f36f0_o.jpg" alt="Occupy Providence donation receiving tent | photo by me" class = "lightbox-keystone rightimg" />
 
 So far, #Occupy&#8217;s energy has been focused on physically sustaining the occupations. That takes a lot of work, and the amount that&#8217;s been accomplished is nothing short of incredible. But if Occupy wants to move forward and make a real political difference (like, dare I say, the Tea Party?), we need substantive goals and action strategies. It&#8217;s clearly possible to turn people out for actions; Occupy Providence had a really strong presence a few weekends ago in a <a href="http://www.youtube.com/watch?v=Pi7aE8RWPI4" target="_blank">demonstration to support their continued occupation of Burnside Park</a>, and have also been sending folks to Bank of America in groups to close their accounts and move their money to local banks. But actions like this have largely been invisible to the media and not coordinated at a national level. That can&#8217;t continue.
 
