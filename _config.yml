@@ -10,10 +10,11 @@ permalink:        pretty
 title:            Harpo Jaeger
 tagline:          'dot com'
 description:      'I write about politics, organizing and two-stroke engines.'
-url:              http://harpojaeger.com
+url:              'http://harpojaeger.com'
 baseurl:          '/'
 paginate:         20
 paginate_path:    "/posts/page:num"
+exclude:          ['assets/scripts/newpost']
 
 author:
   name:           'Harpo Jaeger'
