@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <div style="float:right;width:42%;"><img alt="Me on a hill with a radio and a dog (not my dog)." src="/assets/media/jekyll/images/about/2016-08-23_profileradio.jpg" /></div>
-I live with my partner Chloé in Tucson, AZ, where I'm a community organizer and stagehand.  Our yard is home to three chickens, a lot of cacti, and an undisclosed number of carpentry projects in various stages of completion/abandonment.  Our house is full of antiquated technology, klezmer music and sea chanteys.
+I live with my partner Chloé in Tucson, AZ, where I'm a community organizer and stagehand.  Our yard is home to four chickens, a lot of cacti, and an undisclosed number of carpentry projects in various stages of completion/abandonment.  Our house is full of antiquated technology, klezmer music and sea chanteys.
 
 I serve as Treasurer of the Board for the [National Havurah Committee](http://havurah.org).  Previously, I wrote and edited at [Jewschool](http://jewschool.com) and [New Voices Magazine](http:///newvoicesmag.org).  Aside from all that, my main claim to fame is that [Marshall Ganz](http://marshallganz.com/) likes my name and we ate grapes together.  I think that's pretty cool.
 
