@@ -3,7 +3,7 @@ title: 'APRS Muting on Kenwood TH-D72A'
 author: Harpo
 layout: post
 comments: true
-permalink: /2017-02-14/aprs-muting
+permalink: /2017/02/14/aprs-muting
 tags:
   - amateur radio
   - ham radio

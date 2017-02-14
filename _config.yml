@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-gems:             [jekyll-paginate]
+gems:             [jekyll-paginate, jekyll-seo-tag]
 
 # Permalinks
 permalink:        pretty
@@ -16,9 +16,8 @@ paginate:         20
 paginate_path:    "/posts/page:num"
 exclude:          ['assets/scripts/newpost']
 
-author:
-  name:           'Harpo Jaeger'
-  url:            https://twitter.com/harpojaeger
+twitter:
+  username: harpojaeger
 
 # Custom vars
 # version:          1.0.0
