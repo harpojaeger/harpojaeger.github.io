@@ -1,17 +1,18 @@
-img.rightimg
-{
-float: right;
-width: 40%
+img.rightimg {
+  float: right;
+  width: 40%
 }
 
 img.smallimg {
-width: 27%;
+  width: 27%;
 }
 
-div.imgrow img{
-float: left;
+div.imgrow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap
 }
 
-div.imgrow a + a img{
-margin-left: 6%;
+div.imgrow a {
+  margin: 0em 1em;
 }
