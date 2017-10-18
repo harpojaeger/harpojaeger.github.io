@@ -16,11 +16,7 @@ tags:
 
 **CW: Nazis, Nazi imagery, physical aggression and general awfulness**
 
-<div style="float:right;width:42%;">
-  <a href="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.19.50-park.jpg">
-    <img src="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.19.50-park.jpg" alt="Two Nazis in Catalina park from a distance.  One wears camo pants, a flak jacket and a gask mask.  The other wears grey pants, a White supremacist t-shirt and sunglasses."/>
-  </a>
-</div>
+<img src="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.19.50-park.jpg" alt="Two Nazis in Catalina park from a distance.  One wears camo pants, a flak jacket and a gask mask.  The other wears grey pants, a White supremacist t-shirt and sunglasses." class="lightbox-20170721 smallimg rightimg"/>
 A small crowd turned out for the Tucson Refuse Fascism march on the evening of Saturday, July 15.  We were accompanied by about 20 uniformed TPD officers, and two Nazis.  Here they are in Catalina Park, shortly before we started moving.
 
 ## A timeline of the evening's events
@@ -29,11 +25,7 @@ We left the park around 6:30 PM, heading straight down 4th Ave.  After less than
 
 The Nazis were not keeping a respectful distance.  They started off right behind us, but as we moved, Gas Mask Nazi edged closer and closer to our rear.  The younger protesters were leading the march, with the older marchers in the back of our column, so I dropped to the rear with my bike, and put myself between them and Gas Mask.  Meanwhile, Sunglasses Nazi took up a position on the sidewalk, filming the entire protest.  They were there to provoke a scene or interfere however they could.
 
-<div style="float:right; width: 37%;">
-  <a href="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.41.09-gas-mask.jpg">
-    <img src="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.41.09-gas-mask.jpg" alt="Close up of the Nazi in the gas mask, showing a swastika and the words I AM HATE sharpied on his flak jacket."/>
-  </a>
-</div>
+<img src="/assets/media/jekyll/images/2017-07-21/2017-07-15-18.41.09-gas-mask.jpg" alt="Close up of the Nazi in the gas mask, showing a swastika and the words I AM HATE sharpied on his flak jacket." class="lightbox-20170721 smallimg rightimg"/>
 Our group was small, but spirited.  Especially with our police escort, we attracted quite a lot of attention, garnering both cheers and boos from people along 4th.  We talked to bystanders as we went to try to get them to join in, but the sight of a Nazi in a gas mask and flak jacket probably dissuaded a lot of them.
 
 Things started to heat up as we proceeded through the underpass and down Congress.  Gas Mask pushed further into our group, throwing Nazi salutes as he walked, and shouting "Heil Trump!"  Around Congress and 6th, he came right up behind one of our protestors and I made a quick turn to the left, cutting in front of him with my bike.  He responded by violently shoving me forward.  TPD were on us immediately, and they forced me up and away from him.  I hadn't laid hands on him the entire time.
